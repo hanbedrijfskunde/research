@@ -11,7 +11,7 @@ editor: visual
   <iframe width="560" height="315" src="https://www.youtube.com/embed/o7Ik1OB4TaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-![](https://1.bp.blogspot.com/_aNUHZCgO-XA/TLxBlKsB_wI/AAAAAAAAABE/tKbyKzS82CM/s1600/Strategy+Map+template.jpg)
+![](https://i.pinimg.com/originals/8b/09/52/8b0952b108d0f37b59907ce327ba277a.jpg)
 
 Het Strategy Maps-model van Kaplan en Norton is een instrument om de strategische doelen van een organisatie visueel voor te stellen en te verbinden met de activiteiten en processen die nodig zijn om deze te realiseren. Het model is nauw verbonden met de Balanced Scorecard, een management tool die wordt gebruikt om de prestaties van een organisatie te meten en te beheren.
 

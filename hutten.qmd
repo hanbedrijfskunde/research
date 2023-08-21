@@ -11,7 +11,7 @@ editor: visual
   <iframe width="560" height="315" src="https://www.youtube.com/embed/o7Ik1OB4TaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-![](https://i.pinimg.com/originals/8b/09/52/8b0952b108d0f37b59907ce327ba277a.jpg)
+![](https://i.pinimg.com/originals/8b/09/52/8b0952b108d0f37b59907ce327ba277a.jpg){.my-5}
 
 Het Strategy Maps-model van Kaplan en Norton is een instrument om de strategische doelen van een organisatie visueel voor te stellen en te verbinden met de activiteiten en processen die nodig zijn om deze te realiseren. Het model is nauw verbonden met de Balanced Scorecard, een management tool die wordt gebruikt om de prestaties van een organisatie te meten en te beheren.
 
@@ -36,7 +36,7 @@ Samengevat biedt het Strategy Maps-model van Kaplan en Norton een gestructureerd
 
 ### Financieel perspectief: Six Capitals
 
-![](https://www.integratedreporting.org/wp-content/uploads/2021/03/IIRC_framework_diagrams_Figure_2_OFFICIAL.jpg)
+![](https://www.integratedreporting.org/wp-content/uploads/2021/03/IIRC_framework_diagrams_Figure_2_OFFICIAL.jpg){.my-5}
 
 Het Financiële Perspectief uit de Strategy Maps van Kaplan en Norton is een onderdeel van de Balanced Scorecard. In simpele woorden, het kijkt naar hoe goed een bedrijf presteert in financiële zin. Dus hoeveel winst er wordt gemaakt, of de omzet groeit en of de mensen die in het bedrijf hebben geïnvesteerd (aandeelhouders) tevreden zijn.
 
@@ -46,7 +46,7 @@ De connectie tussen het Financiële Perspectief en het Six Capitals model zit 'm
 
 ### Klantperspectief: Value Proposition
 
-![](https://www.designabetterbusiness.tools/static/tools/value-proposition-canvas.jpg)
+![](https://www.designabetterbusiness.tools/static/tools/value-proposition-canvas.jpg){.my-5}
 
 Het Klantperspectief uit de Strategy Maps van Kaplan en Norton gaat over de manier waarop een bedrijf waarde creëert voor zijn klanten. Het legt de nadruk op klanttevredenheid, klantbehoud en het aantrekken van nieuwe klanten. Het gaat erom te begrijpen wat klanten echt willen en hoe het bedrijf daarop kan inspelen.
 
@@ -58,7 +58,7 @@ Samenvattend, het Klantperspectief en het Value Proposition Canvas vullen elkaar
 
 ### Interne Processen \>\> Customer Management: Customer Journey
 
-![](https://www.crmsoftwareblog.com/wp-content/uploads/Customer-Journey-emfluence.png)
+![](https://www.crmsoftwareblog.com/wp-content/uploads/Customer-Journey-emfluence.png){.my-5}
 
 Het Customer Management Process uit de Strategy Maps van Kaplan en Norton richt zich op de manier waarop een organisatie relaties met haar klanten opbouwt, onderhoudt en versterkt. Dit proces benadrukt hoe belangrijk het is om te begrijpen wat klanten willen, hoe je waarde kunt toevoegen en hoe je klantloyaliteit kunt versterken.
 

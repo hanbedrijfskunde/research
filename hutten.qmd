@@ -4,13 +4,12 @@ subtitle: "A-cluster"
 editor: visual
 ---
 
+## Klant
+
+[Hutten](https://www.hutten.eu){target="_blank"}
+
 ## Bedrijfskundig model: Strategy Maps
 
-```{=html}
-<div class="ratio ratio-16x9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/o7Ik1OB4TaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-```
 ![](https://i.pinimg.com/originals/8b/09/52/8b0952b108d0f37b59907ce327ba277a.jpg){.my-5}
 
 Het Strategy Maps-model van Kaplan en Norton is een instrument om de strategische doelen van een organisatie visueel voor te stellen en te verbinden met de activiteiten en processen die nodig zijn om deze te realiseren. Het model is nauw verbonden met de Balanced Scorecard, een management tool die wordt gebruikt om de prestaties van een organisatie te meten en te beheren.
@@ -32,6 +31,12 @@ De doelstellingen binnen deze perspectieven worden verticaal met elkaar verbonde
 
 Samengevat biedt het Strategy Maps-model van Kaplan en Norton een gestructureerde manier om een organisatiestrategie te vertalen naar concrete acties en maatregelen, waardoor de implementatie ervan effectiever wordt. Het biedt zowel een macro-overzicht als een gedetailleerd inzicht in hoe verschillende activiteiten en initiatieven bijdragen aan het behalen van de strategische doelstellingen.
 
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/o7Ik1OB4TaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+
 ## Relaties met andere modellen
 
 ### Financieel perspectief: Six Capitals
@@ -40,9 +45,18 @@ Samengevat biedt het Strategy Maps-model van Kaplan en Norton een gestructureerd
 
 Het Financiële Perspectief uit de Strategy Maps van Kaplan en Norton kijkt naar hoe goed een bedrijf presteert in financiële zin. Dus hoeveel winst er wordt gemaakt, of de omzet groeit en of de mensen die in het bedrijf hebben geïnvesteerd (aandeelhouders) tevreden zijn.
 
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uH-ffKIgb38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
 Dan is er het Six Capitals model. Dit model bekijkt een bedrijf vanuit zes verschillende hoeken of 'kapitalen'. Deze zijn: Financieel, Geproduceerd (denk aan gebouwen en machines), Intellectueel (denk aan patenten en kennis), Menselijk (je team en hun vaardigheden), Sociaal & Relatie (hoe je relaties met klanten en partners zijn) en Natuurlijk (hoe duurzaam en milieuvriendelijk je bezig bent).
 
 De connectie tussen het Financiële Perspectief en het Six Capitals model zit 'm in het financiële stuk. Beide benaderingen kijken naar de financiële gezondheid van een organisatie. Maar terwijl bij Kaplan en Norton het financiële deel een soort einddoel is, is het bij het Six Capitals model slechts één van de zes elementen. Met andere woorden, het Six Capitals model zegt: "Financiën zijn belangrijk, maar er zijn ook andere zaken die tellen!"
+
+Literatuur:
+
+-   Mohr, J., & Thissen, C. (2022). Measuring and disclosing corporate valuations of impacts and dependencies on nature. *California Management Review*, *65*(1), 91-118.
 
 ### Klantperspectief: Value Proposition
 
@@ -52,9 +66,19 @@ Het Klantperspectief uit de Strategy Maps van Kaplan en Norton gaat over de mani
 
 Daar komt het Value Proposition Canvas van Strategyzer om de hoek kijken. Dit model helpt bedrijven om heel specifiek te begrijpen wat klanten willen, waar ze pijn voelen en hoe het bedrijf daar met een product of dienst een oplossing voor kan bieden. Het canvas is opgedeeld in twee delen: de klant (Customer Profile) en het aanbod van het bedrijf (Value Proposition).
 
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/q8d9uuO1Cf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+
 In het Klantperspectief van Strategy Maps gaat het om de bredere vraag: "Doen we de juiste dingen voor onze klanten?". Het Value Proposition Canvas duikt dieper en vraagt: "Wat zijn precies de behoeften van onze klant en hoe sluit ons aanbod daar perfect op aan?".
 
 Samenvattend, het Klantperspectief en het Value Proposition Canvas vullen elkaar aan. Het eerste biedt een helikopterview over de klantstrategie, terwijl het tweede helpt om heel specifiek de klantbehoeften te matchen met wat het bedrijf te bieden heeft. Beide zijn essentieel voor bedrijven die hun klanten centraal willen stellen en succesvol willen zijn in de markt.
+
+Literatuur:
+
+-   Payne, A., Frow, P., Steinhoff, L., & Eggert, A. (2020). Toward a comprehensive framework of value proposition development: From strategy to implementation. *Industrial Marketing Management*, *87*, 244-255.
 
 ### Interne Processen \>\> Customer Management: Customer Journey
 
@@ -65,3 +89,19 @@ Het Customer Management Process uit de Strategy Maps van Kaplan en Norton richt 
 De Customer Journey Map daarentegen is een visuele tool die de reis van een klant door alle contactpunten met een organisatie in kaart brengt. Dit begint bij het allereerste moment van bewustzijn tot aan het daadwerkelijk gebruik van een product of dienst en zelfs verder, bijvoorbeeld bij nazorg of heraankopen. Het helpt bedrijven inzicht te krijgen in de ervaringen, emoties en behoeften van klanten op verschillende momenten van hun reis.
 
 Het verband tussen het Customer Management Process en de Customer Journey Map is dat ze beide focussen op het optimaliseren van de klantervaring. Waar het Customer Management Process strategische doelen stelt om klantrelaties te verbeteren, biedt de Customer Journey Map concrete inzichten en details over hoe klanten daadwerkelijk interactie hebben met de organisatie. Door deze twee samen te gebruiken, kan een organisatie niet alleen een duidelijke klantstrategie opstellen, maar ook de specifieke stappen identificeren die nodig zijn om die strategie in praktijk te brengen en zo een optimale klantbeleving te realiseren.
+
+Literatuur:
+
+-   Tueanrat, Y., Papagiannidis, S., & Alamanos, E. (2021). Going on a journey: A review of the customer journey literature. *Journal of Business Research*, *125*, 336-353.
+
+### Human Capital \>\> Employee Value Proposition
+
+Het Human Capital onderdeel in Strategy Maps heeft betrekking op het managen van de vaardigheden, talenten en expertise van medewerkers om de strategische doelstellingen van een organisatie te realiseren. Met name, managen van kennis en competenties, cultuur en motivatie, en leiderschapskwaliteiten.
+
+Het [Employee Value Proposition](https://drive.google.com/file/d/1M3VuaDwjkhfp2hAInLtu2rdvJQ-wa09K/view?usp=drive_link){target="_blank"} (EVP) concept van Amy Edmondson gaat over het ontwikkelen van een unieke waardepropositie voor werknemers. Het betreft het creëren van een aantrekkelijke baan en werkomgeving voor werknemers door het bieden van zaken als uitdaging, autonomie, groei, erkenning en flexibiliteit. Het draait om werknemers aantrekken en behouden.
+
+Er is duidelijk een verband tussen beide concepten. Het Human Capital onderdeel van Strategy Maps benadrukt het belang van investeren in medewerkers om strategische doelen te bereiken. Een sterk EVP draagt daar aan bij door medewerkers te motiveren en betrokken te houden. Ook overlappen zaken als ontwikkeling van kennis/vaardigheden en flexibiliteit. Een sterk EVP kan dus gezien worden als onderdeel van effectief Human Capital management zoals genoemd in Strategy Maps. Het creëren van waarde voor medewerkers draagt bij aan het bereiken van de doelen van de organisatie.
+
+```{=html}
+
+```

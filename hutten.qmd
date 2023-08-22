@@ -6,7 +6,7 @@ lang: nl
 editor: visual
 ---
 
-## Klant
+## Casus
 
 [Hutten](https://www.hutten.eu){target="_blank"}
 
@@ -55,9 +55,15 @@ Dan is er het Six Capitals model. Dit model bekijkt een bedrijf vanuit zes versc
 
 De connectie tussen het Financiële Perspectief en het Six Capitals model zit 'm in het financiële stuk. Beide benaderingen kijken naar de financiële gezondheid van een organisatie. Maar terwijl bij Kaplan en Norton het financiële deel een soort einddoel is, is het bij het Six Capitals model slechts één van de zes elementen. Met andere woorden, het Six Capitals model zegt: "Financiën zijn belangrijk, maar er zijn ook andere zaken die tellen!"
 
-Literatuur:
-
+:::{.callout-note}
+## Literatuur
 -   Mohr, J., & Thissen, C. (2022). Measuring and disclosing corporate valuations of impacts and dependencies on nature. *California Management Review*, *65*(1), 91-118.
+:::
+
+::: {.callout-tip}
+## Opdracht
+Onderzoek per capital welke opportunities en threats er op de organisatie afkomen.
+:::
 
 ### Klantperspectief: Value Proposition
 
@@ -76,9 +82,15 @@ In het Klantperspectief van Strategy Maps gaat het om de bredere vraag: "Doen we
 ```
 Samenvattend, het Klantperspectief en het Value Proposition Canvas vullen elkaar aan. Het eerste biedt een helikopterview over de klantstrategie, terwijl het tweede helpt om heel specifiek de klantbehoeften te matchen met wat het bedrijf te bieden heeft. Beide zijn essentieel voor bedrijven die hun klanten centraal willen stellen en succesvol willen zijn in de markt.
 
-Literatuur:
-
+:::{.callout-note}
+## Literatuur
 -   Payne, A., Frow, P., Steinhoff, L., & Eggert, A. (2020). Toward a comprehensive framework of value proposition development: From strategy to implementation. *Industrial Marketing Management*, *87*, 244-255.
+:::
+
+::: {.callout-tip}
+## Opdracht
+Onderzoek welke opportunities en threats er op de organisatie afkomen vanuit het klantperpectief.
+:::
 
 ### Interne Processen \>\> Customer Management: Customer Journey
 
@@ -90,11 +102,15 @@ De Customer Journey Map daarentegen is een visuele tool die de reis van een klan
 
 Het verband tussen het Customer Management Process en de Customer Journey Map is dat ze beide focussen op het optimaliseren van de klantervaring. Waar het Customer Management Process strategische doelen stelt om klantrelaties te verbeteren, biedt de Customer Journey Map concrete inzichten en details over hoe klanten daadwerkelijk interactie hebben met de organisatie. Door deze twee samen te gebruiken, kan een organisatie niet alleen een duidelijke klantstrategie opstellen, maar ook de specifieke stappen identificeren die nodig zijn om die strategie in praktijk te brengen en zo een optimale klantbeleving te realiseren.
 
-Literatuur:
-
+:::{.callout-note}
+## Literatuur
 -   Tueanrat, Y., Papagiannidis, S., & Alamanos, E. (2021). Going on a journey: A review of the customer journey literature. *Journal of Business Research*, *125*, 336-353.
+:::
 
-### Human Capital \>\> Employee Value Proposition
+::: {.callout-tip}
+## Opdracht
+Onderzoek welke opportunities en threats er op de organisatie afkomen wat betreft de interne processen.
+:::
 
 Het Human Capital onderdeel in Strategy Maps heeft betrekking op het managen van de vaardigheden, talenten en expertise van medewerkers om de strategische doelstellingen van een organisatie te realiseren. Met name, managen van kennis en competenties, cultuur en motivatie, en leiderschapskwaliteiten.
 
@@ -103,6 +119,3 @@ Het [Employee Value Proposition](https://drive.google.com/file/d/1M3VuaDwjkhfp2h
 ![Bron: https://hbr.org/2023/01/rethink-your-employee-value-proposition](https://hbr.org/resources/images/article_assets/2022/11/S23012_SPOT_TALENTWAR_360.png){.my-5 width="400"}
 
 Er is duidelijk een verband tussen beide concepten. Het Human Capital onderdeel van Strategy Maps benadrukt het belang van investeren in medewerkers om strategische doelen te bereiken. Een sterk EVP draagt daar aan bij door medewerkers te motiveren en betrokken te houden. Ook overlappen zaken als ontwikkeling van kennis/vaardigheden en flexibiliteit. Een sterk EVP kan dus gezien worden als onderdeel van effectief Human Capital management zoals genoemd in Strategy Maps. Het creëren van waarde voor medewerkers draagt bij aan het bereiken van de doelen van de organisatie.
-
-```{=html}
-```

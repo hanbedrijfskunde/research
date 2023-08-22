@@ -1,6 +1,8 @@
 ---
 title: "Hutten"
 subtitle: "A-cluster"
+author: "Deze tekst is grotendeels door AI gegenereerd. Redactie: Witek ten Hove"
+lang: nl
 editor: visual
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Welkom"
-author: "Deze tekst is grotendeels door AI gegenereerd. Redactie: Witek ten Hove"
+author: "Deze tekst is grotendeels door AI gegenereerd.<br>Redactie: Witek ten Hove"
 lang: nl
 format: html
 editor: visual

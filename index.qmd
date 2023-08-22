@@ -10,14 +10,32 @@ Onderzoeksvaardigheden zijn cruciaal voor studenten Bedrijfskunde, omdat deze va
 
 ![](https://miro.medium.com/v2/resize:fit:2000/0*bdDl2hkVO8qx_zA7.png){.my-5}
 
-In de zakelijke wereld kunnen intuïtieve reacties (System 1) leiden tot overhaaste en ondoordachte beslissingen, met potentieel negatieve gevolgen. Onderzoeksvaardigheden stellen studenten Bedrijfskunde in staat om System 2-denken te bevorderen, waarbij ze zakelijke vraagstukken analyseren, data verzamelen en evalueren, en weloverwogen besluiten nemen. 
+In de zakelijke wereld kunnen intuïtieve reacties (System 1) leiden tot overhaaste en ondoordachte beslissingen, met potentieel negatieve gevolgen. Onderzoeksvaardigheden stellen studenten Bedrijfskunde in staat om System 2-denken te bevorderen, waarbij ze zakelijke vraagstukken analyseren, data verzamelen en evalueren, en weloverwogen besluiten nemen.
 
 Dit onderscheid in denkprocessen onderstreept het belang van een grondige analyse in het bedrijfsleven. Zonder degelijke onderzoeksvaardigheden riskeren studenten te vertrouwen op ongefundeerde aannames of oppervlakkige inzichten, wat kan leiden tot suboptimale bedrijfsstrategieën. Door de integratie van onderzoek in hun toolkit zijn studenten Bedrijfskunde beter uitgerust om leiderschap te tonen en waarde toe te voegen in een competitieve markt.
 
-
-
 ## Hoe doen we onderzoek bij BK?
 
-![](https://smartresearch.businessdatasolutions.nl/workflow.png){.my-5}
+![Bron: Innovations in Scholarly Communication. (n.d.). Innovations in Scholarly Communication. Retrieved March 29, 2021, from https://101innovations.wordpress.com/](https://smartresearch.businessdatasolutions.nl/workflow.png){.my-5}
 
-## 
+Onderzoek is een systematisch proces waarbij kennis wordt vergaard en uitgedragen. Hier is een beknopte uitleg van het onderzoeksproces aan de hand van de genoemde stappen:
+
+1.  **Discovery**: Deze initiële fase draait om het identificeren van een onderzoeksvraag of probleem. Hierin wordt voorafgaand onderzoek beoordeeld, een literatuurstudie gedaan en wordt de behoefte aan nieuw onderzoek vastgesteld.
+
+2.  **Analysis**: Nadat de gegevens zijn verzameld, worden ze in deze fase geanalyseerd. Dit kan kwalitatief of kwantitatief zijn, afhankelijk van de onderzoeksmethode. Hier worden patronen, relaties of verschillen in de data geïdentificeerd.
+
+3.  **Writing**: Hier wordt het onderzoek omgezet in een coherent verslag of paper. Dit omvat het opstellen van de methodologie, resultaten, discussie en conclusie. Het schrijven zorgt ervoor dat het onderzoek begrijpelijk en toegankelijk is voor anderen.
+
+4.  **Publishing**: Alle informatie omtrent het verloop van het onderzoek en de resultaten dienen te worden vastgelegd in een vorm die aansluit bij de wensen van de stakeholders. Deze wensen zijn in de vorige stap geïnventariseerd en afspraken hierover zijn samengevat in een aantal kwaliteitscriteria voor communicatie. De keuze voor de plek en vorm van publicatie hangt af van deze criteria.
+
+5.  **Outreach**: Als de kwaliteit voldoende is en de stakeholders het toelaten, dient de kennis die is gegenereerd te worden gedeeld met het publiek van de HAN. Aangezien de HAN een maatschappelijke organisatie is, dient in principe iedereen die geïnteresseerd is vrij toegang te hebben.
+
+6.  **Assessment**: Om de PDCA-cirkel te sluiten, beoordeelt de kritische onderzoeker het hele traject dat hij heeft doorlopen en kijkt of hij zijn eigen leerdoelen heeft behaald. Daarbij kijkt hij ook vooruit en formuleert een aantal leerpunten. Inspiratie hiervoor haalt hij uit de feedback van de gebruikers van zijn materiaal.
+
+Door deze stappen te volgen, wordt een systematische benadering van onderzoek gewaarborgd, waarbij elk aspect zorgvuldig wordt aangepakt voor maximale impact en waarde.
+
+## Wat gaan jij doen?
+
+### A-cluster - Literatuuronderzoek
+
+![Bron: https://www.quora.com/What-is-the-structure-of-research-papers-article](images/main-qimg-21001531b4a32d79d29e7616fd88c355.png){.my-5}

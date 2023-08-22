@@ -1,12 +1,12 @@
 ---
-title: "Hutten"
+title: "Casus"
 subtitle: "A-cluster"
 author: "Deze tekst is grotendeels door AI gegenereerd.<br>Redactie: Witek ten Hove"
 lang: nl
 editor: visual
 ---
 
-## Casus
+## Organisatie
 
 [Hutten](https://www.hutten.eu){target="_blank"}
 

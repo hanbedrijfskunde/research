@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: hutten.qmd
-        text: Hutten
+      - href: casus.qmd
+        text: Casus
 
 format:
   html:

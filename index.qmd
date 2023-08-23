@@ -26,6 +26,17 @@ In de zakelijke wereld kunnen intuïtieve reacties (System 1) leiden tot overhaa
 
 Dit onderscheid in denkprocessen onderstreept het belang van een grondige analyse in het bedrijfsleven. Zonder degelijke onderzoeksvaardigheden riskeren studenten te vertrouwen op ongefundeerde aannames of oppervlakkige inzichten, wat kan leiden tot suboptimale bedrijfsstrategieën. Door de integratie van onderzoek in hun toolkit zijn studenten Bedrijfskunde beter uitgerust om leiderschap te tonen en waarde toe te voegen in een competitieve markt.
 
+::: callout-warning
+## Hoe goed is jouw System 2?
+
+Er was 's nachts een aanrijding met vluchtmisdrijf waarbij een taxi betrokken was. In de stad zijn er twee taxibedrijven, Groen en Blauw. Je krijgt de volgende gegevens:
+
+- 85% van de taxi's in de stad is Groen en 15% is Blauw.
+- Een getuige beweerde dat de taxi Blauw was. De rechtbank heeft de betrouwbaarheid van de getuige onder de omstandigheden van die nacht getest, en geconcludeerd dat de getuige in 80% van de gevallen elke kleur correct identificeerde en in 20% van de gevallen een fout maakte.
+
+Wat is de kans dat de taxi die bij het ongeluk betrokken was Blauw was in plaats van Groen?
+:::
+
 ## Hoe doen we onderzoek bij BK?
 
 ![Bron: Innovations in Scholarly Communication. (n.d.). Innovations in Scholarly Communication. Retrieved March 29, 2021, from https://101innovations.wordpress.com/](images/workflow.png){.my-5}

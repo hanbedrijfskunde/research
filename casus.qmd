@@ -134,6 +134,30 @@ Er is duidelijk een verband tussen beide concepten. Het Human Capital onderdeel 
 -   Mortensen, M., & Edmondson, A. C. (2023). Rethink Your Employee Value Proposition Offer your people more than just flexibility. HARVARD BUSINESS REVIEW, 101(1-2), 45-49.
 :::
 
-### Leer / Groei \>\> Information Capital:
+### Leer / Groei \>\> Information Capital: Digital Maturity
 
-![Bron: https://www2.semantix.ai/solucoes/produtos/semantix-data-platform/](images/GIF-SDP-2022.gif){.my-5}
+Het Strategy Maps model van Kaplan en Norton introduceert het concept van "Information Capital", wat zich richt op technologie, databases, netwerken, software en andere informatieve middelen. Deze assets spelen een centrale rol in de hedendaagse bedrijfsstrategieën, met name in het tijdperk van digitale transformatie.
+
+Digitale transformatie beschrijft de overgang van bedrijven naar meer geavanceerde technologieoplossingen en -processen. Deze transformatie kent verschillende groeifasen, van initiële digitalisering tot geavanceerde datagestuurde besluitvorming.
+
+![https://hbr.org/2022/05/democratizing-transformation](https://hbr.org/resources/images/article_assets/2022/04/S22031_IANSITI_STAGES_610.png){.my-5}
+
+De relatie tussen Information Capital en de groeifasen van digitale transformatie is intiem. In de beginfasen van digitale transformatie wordt de basis gelegd door het inzetten van Information Capital om processen te automatiseren en basis digitale diensten aan te bieden. Naarmate organisaties verder evolueren, wordt Information Capital steeds crucialer. In latere fasen, wanneer bedrijven streven naar datagestuurde besluitvorming, innovatie en het bieden van gepersonaliseerde klantervaringen, wordt de kwaliteit, integratie en analyse van informatie (een kerncomponent van Information Capital) van vitaal belang.
+
+Kortom, Information Capital vormt de ruggengraat van de digitale transformatie. Het faciliteert en versnelt de evolutie door de verschillende groeifasen, waardoor organisaties competitief blijven in een digitaal tijdperk.
+
+::: callout-note
+## Literatuur
+
+-   Iansiti, M., & Nadella, S. (2022). Democratizing Transformation. Harvard Business Review, 100(5-6), 42-49.
+:::
+
+### Leer / Groei \>\> Organizational Capital: Leiderschap
+
+Het "Strategy Maps" model van Kaplan en Norton belicht het concept van "Organizational Capital" als een van de belangrijke immateriële activa. Organizational Capital omvat de cultuur van een bedrijf, het leiderschap, de afstemming van de strategische visie en de mogelijkheid om als een team samen te werken om gemeenschappelijke doelen te bereiken.
+
+Het [Project Oxygen](https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/){target="_blank"} van Google, dat startte in 2008, had als doel de kenmerken van effectieve managers bij Google te identificeren. Uit het onderzoek kwamen acht belangrijke kenmerken naar voren, waaronder het zijn van een goede coach, het ondersteunen van teamontwikkeling, het tonen van zorg voor teamleden, en het hebben van een duidelijke visie/strategie voor het team.
+
+![Bron: https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/](images/oxygen.png){.my-5}
+
+Het verband tussen Organizational Capital en de uitkomsten van Project Oxygen is evident. Beide benadrukken het belang van een positieve bedrijfscultuur, effectief leiderschap en de noodzaak voor managers om niet alleen technisch bekwaam te zijn, maar ook in staat te zijn hun teams te begeleiden, ondersteunen en motiveren. Effectief leiderschap, zoals geïdentificeerd in Project Oxygen, draagt direct bij aan de versterking van Organizational Capital door het bevorderen van samenwerking, het stimuleren van innovatie en het verzekeren van een afstemming met de bredere organisatiestrategie. Kortom, effectieve managers, zoals beschreven in Project Oxygen, zijn cruciaal voor het opbouwen en onderhouden van een sterk Organizational Capital.

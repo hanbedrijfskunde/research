@@ -168,7 +168,7 @@ Het "Strategy Maps" model van Kaplan en Norton belicht het concept van "Organiza
 </div>
 ```
 
-Het [Project Oxygen](https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/){target="_blank"} van Google, dat startte in 2008, had als doel de kenmerken van effectieve managers bij Google te identificeren. Uit het onderzoek kwamen acht belangrijke kenmerken naar voren, waaronder het zijn van een goede coach, het ondersteunen van teamontwikkeling, het tonen van zorg voor teamleden, en het hebben van een duidelijke visie/strategie voor het team.
+Het [Project Oxygen](https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/){target="_blank"} van Google, dat startte in 2008, had als doel de kenmerken van effectieve managers bij Google te identificeren. Uit het onderzoek kwamen in eerste instantie acht belangrijke kenmerken naar voren, waaronder het zijn van een goede coach, het ondersteunen van teamontwikkeling, het tonen van zorg voor teamleden, en het hebben van een duidelijke visie/strategie voor het team. Bij een update is de set kenmerken uitgebreid en bevat nu tien elementen.
 
 ![Bron: https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/](images/oxygen.png){.my-5}
 

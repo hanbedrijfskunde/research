@@ -29,12 +29,26 @@ Dit onderscheid in denkprocessen onderstreept het belang van een grondige analys
 ::: callout-caution
 ## Hoe goed is jouw System 2?
 
+::: panel-tabset
+## Casus 1 - Taxi's
+
 Er was 's nachts een aanrijding met vluchtmisdrijf waarbij een taxi betrokken was. In de stad zijn er twee taxibedrijven, Groen en Blauw. Je krijgt de volgende gegevens:
 
 -   85% van de taxi's in de stad is Groen en 15% is Blauw.
 -   Een getuige beweerde dat de taxi Blauw was. De rechtbank heeft de betrouwbaarheid van de getuige onder de omstandigheden van die nacht getest, en geconcludeerd dat de getuige in 80% van de gevallen elke kleur correct identificeerde en in 20% van de gevallen een fout maakte.
 
 Wat is de kans dat de taxi die bij het ongeluk betrokken was Blauw was in plaats van Groen?
+
+## Casus 2 - Linda
+
+Linda is 31 jaar oud, single, heeft een uitgesproken mening en is erg slim. Ze studeerde filosofie. Als student was ze actief betrokken bij verschillende protestbewegingen die streden voor meer sociale rechtvaardigheid.
+
+Welk van de volgende uitspraken is waarschijnlijker?
+
+A.  Linda is een bankmedewerker.
+
+B.  Linda is een bankmedewerker en actief in de feministische beweging.
+:::
 :::
 
 ## Hoe doen we onderzoek bij BK?

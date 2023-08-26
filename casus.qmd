@@ -28,7 +28,7 @@ Laten we enkele componenten van het Strategy Maps model nemen:
 
 Door conceptueel te denken, kun je het Strategy Maps model dus niet alleen als een standalone tool zien, maar als een geïntegreerd systeem dat verbonden is met tal van andere bedrijfsmodellen en -concepten. Voor een student Bedrijfskunde is het vermogen om deze verbindingen te leggen en te begrijpen hoe submodellen interageren binnen het grotere raamwerk essentieel voor zowel academisch inzicht als praktische toepassing in de echte wereld.
 
-Hieronder volgt een verkenning van een aantal modellen die je kunnen helpen bij de casus.
+Hieronder volgt een verkenning van een aantal modellen die je kunnen helpen bij de casus. Het Strategy Maps model wordt hierbij als kapstop gebruikt. Hieraan worden andere modellen en concepten opgehangen en de relaties worden besproken.
 
 ## Bedrijfskundig model: Strategy Maps
 

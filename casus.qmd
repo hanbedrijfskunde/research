@@ -14,27 +14,9 @@ editor: visual
 
 Conceptueel denken is voor een student Bedrijfskunde cruciaal. Het stelt je in staat om complexe problemen te begrijpen en te analyseren door ze te relateren aan overkoepelende concepten of modellen. Dit vermogen is niet alleen nuttig voor academische prestaties, maar ook voor praktische toepassingen in de zakelijke wereld.
 
-Neem als voorbeeld het Strategy Maps model van Kaplan en Norton. Op het hoogste niveau biedt dit model een raamwerk voor het begrijpen van hoe verschillende aspecten van een organisatie samenwerken om waarde te creëren. Maar om dit model echt effectief te gebruiken, moet je het kunnen ontleden in submodellen en concepten.
-
-Laten we enkele componenten van het Strategy Maps model nemen:
-
-1.  **Financieel perspectief**: Dit kan verder worden ontleed en gerelateerd aan financiële modellen, zoals het [DuPont-analysemodel](https://youtu.be/hHuItcTJJcs?si=a3h3jzGTQECB_jgT){target="_blank"}, wat helpt bij het begrijpen van ROI via aspecten als winstmarge en vermogensomzetsnelheid.
-
-2.  **Klantperspectief**: Dit kan worden gekoppeld aan marketing- en CRM-modellen, zoals de Customer Journey Map, die de verschillende stadia van klantinteractie met een bedrijf laat zien.
-
-3.  **Interne processen**: Dit kan worden verbonden met operationele modellen, zoals het Total Quality Management (TQM) voor het verbeteren van de kwaliteit van processen en producten.
-
-4.  **Leer & Groei**: Hier kunnen we concepten als de Growth Mindset van Carol Dweck en modellen voor personeelsontwikkeling integreren.
-
-Door conceptueel te denken, kun je het Strategy Maps model dus niet alleen als een standalone tool zien, maar als een geïntegreerd systeem dat verbonden is met tal van andere bedrijfsmodellen en -concepten. Voor een student Bedrijfskunde is het vermogen om deze verbindingen te leggen en te begrijpen hoe submodellen interageren binnen het grotere raamwerk essentieel voor zowel academisch inzicht als praktische toepassing in de echte wereld.
-
-Hieronder volgt een verkenning van een aantal modellen die je kunnen helpen bij de casus. Het Strategy Maps model wordt hierbij als kapstop gebruikt. Hieraan worden andere modellen en concepten opgehangen en de relaties worden besproken.
-
-## Bedrijfskundig model: Strategy Maps
+Neem als voorbeeld het Strategy Maps model van Kaplan en Norton. Op het hoogste niveau biedt dit model een raamwerk voor het begrijpen van hoe verschillende aspecten van een organisatie samenwerken om waarde te creëren. Het is een instrument om de strategische doelen van een organisatie visueel voor te stellen en te verbinden met de activiteiten en processen die nodig zijn om deze te realiseren. Het model is nauw verbonden met de Balanced Scorecard, een management tool die wordt gebruikt om de prestaties van een organisatie te meten en te beheren.
 
 ![Bron: https://www.pinterest.com/pin/561753753492695642/](https://i.pinimg.com/originals/8b/09/52/8b0952b108d0f37b59907ce327ba277a.jpg){.my-5}
-
-Het Strategy Maps-model van Kaplan en Norton is een instrument om de strategische doelen van een organisatie visueel voor te stellen en te verbinden met de activiteiten en processen die nodig zijn om deze te realiseren. Het model is nauw verbonden met de Balanced Scorecard, een management tool die wordt gebruikt om de prestaties van een organisatie te meten en te beheren.
 
 Het nut van Strategy Maps is veelzijdig:
 
@@ -42,25 +24,31 @@ Het nut van Strategy Maps is veelzijdig:
 2.  **Alignering:** Het zorgt ervoor dat de strategische doelstellingen worden gealigneerd met de onderliggende processen en initiatieven. Dit bevordert een geïntegreerde aanpak voor strategie-implementatie.
 3.  **Focus:** Het helpt organisaties te concentreren op de meest kritische activiteiten die invloed hebben op strategische doelstellingen.
 
-De werking van het Strategy Maps-model is gebaseerd op het weergeven van de strategische doelstellingen binnen vier gerelateerde perspectieven:
+Om dit model echt effectief te gebruiken, moet je het kunnen ontleden in submodellen en concepten. Laten we enkele componenten van het Strategy Maps model nemen:
 
-1.  **Financieel Perspectief:** Dit beschrijft de financiële doelstellingen en toont de uiteindelijke resultaten waarnaar de organisatie streeft vanuit het oogpunt van aandeelhouders.
-2.  **Klantperspectief:** Dit geeft aan welke markt- en klantdoelstellingen de organisatie wil bereiken om haar financiële doelstellingen te halen.
-3.  **Interne Procesperspectief:** Hier worden de operationele activiteiten en processen beschreven die essentieel zijn om de klant- en financiële doelstellingen te realiseren.
-4.  **Leren en Groeiperspectief:** Dit omvat de capaciteiten van de organisatie in termen van medewerkers, systemen en organisatiecultuur die nodig zijn voor de uitvoering van interne processen.
+1.  {{< fa money-check-dollar >}} **Financieel perspectief**: Dit kan verder worden ontleed en gerelateerd aan financiële modellen, zoals het [DuPont-analysemodel](https://youtu.be/hHuItcTJJcs?si=a3h3jzGTQECB_jgT){target="_blank"}, wat helpt bij het begrijpen van ROI via aspecten als winstmarge en vermogensomzetsnelheid.
+
+2.  {{< fa crown >}} **Klantperspectief**: Dit kan worden gekoppeld aan marketing- en CRM-modellen, zoals de Customer Journey Map, die de verschillende stadia van klantinteractie met een bedrijf laat zien.
+
+3.  {{< fa network-wired >}} **Interne processen**: Dit kan worden verbonden met operationele modellen, zoals het Total Quality Management (TQM) voor het verbeteren van de kwaliteit van processen en producten.
+
+4.  {{< fa seedling >}} **Leer & Groei**: Hier kunnen we concepten als de Growth Mindset van Carol Dweck en modellen voor personeelsontwikkeling integreren.
 
 De doelstellingen binnen deze perspectieven worden verticaal met elkaar verbonden om de causale relaties aan te geven. Bijvoorbeeld, investeringen in opleiding (leren en groeiperspectief) kunnen leiden tot verbeterde interne processen, wat vervolgens kan leiden tot een hogere klanttevredenheid en uiteindelijk tot betere financiële resultaten.
 
-Samengevat biedt het Strategy Maps-model van Kaplan en Norton een gestructureerde manier om een organisatiestrategie te vertalen naar concrete acties en maatregelen, waardoor de implementatie ervan effectiever wordt. Het biedt zowel een macro-overzicht als een gedetailleerd inzicht in hoe verschillende activiteiten en initiatieven bijdragen aan het behalen van de strategische doelstellingen.
+Door conceptueel te denken, kun je het Strategy Maps model dus niet alleen als een standalone tool zien, maar als een geïntegreerd systeem dat verbonden is met tal van andere bedrijfsmodellen en -concepten. Voor een student Bedrijfskunde is het vermogen om deze verbindingen te leggen en te begrijpen hoe submodellen interageren binnen het grotere raamwerk essentieel voor zowel academisch inzicht als praktische toepassing in de echte wereld.
+
+Hieronder volgt een verkenning van een aantal modellen die je kunnen helpen bij de casus. Het Strategy Maps model wordt hierbij als kapstop gebruikt. Hieraan worden andere modellen en concepten opgehangen en de relaties worden besproken.
 
 ```{=html}
 <div class="ratio ratio-16x9 my-5">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/o7Ik1OB4TaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
+
 ## Relaties met andere modellen
 
-### Financieel perspectief: Six Capitals
+### {{< fa money-check-dollar >}} Financieel perspectief: Six Capitals
 
 Het Financiële Perspectief uit de Strategy Maps van Kaplan en Norton kijkt naar hoe goed een bedrijf presteert in financiële zin. Dus hoeveel winst er wordt gemaakt, of de omzet groeit en of de mensen die in het bedrijf hebben geïnvesteerd (aandeelhouders) tevreden zijn.
 
@@ -87,7 +75,7 @@ De connectie tussen het Financiële Perspectief en het Six Capitals model zit 'm
 Onderzoek per capital welke opportunities en threats er op de organisatie afkomen.
 :::
 
-### Klantperspectief: Value Proposition
+### {{< fa crown >}} Klantperspectief: Value Proposition
 
 Het Klantperspectief uit de Strategy Maps van Kaplan en Norton gaat over de manier waarop een bedrijf waarde creëert voor zijn klanten. Het legt de nadruk op klanttevredenheid, klantbehoud en het aantrekken van nieuwe klanten. Het gaat erom te begrijpen wat klanten echt willen en hoe het bedrijf daarop kan inspelen.
 
@@ -116,7 +104,7 @@ Samenvattend, het Klantperspectief en het Value Proposition Canvas vullen elkaar
 Onderzoek welke opportunities en threats er op de organisatie afkomen vanuit het klantperpectief.
 :::
 
-### Interne Processen \>\> Customer Management: Customer Journey
+### {{< fa network-wired >}} Interne Processen \>\> Customer Management: Customer Journey
 
 Het Customer Management Process uit de Strategy Maps van Kaplan en Norton richt zich op de manier waarop een organisatie relaties met haar klanten opbouwt, onderhoudt en versterkt. Dit proces benadrukt hoe belangrijk het is om te begrijpen wat klanten willen, hoe je waarde kunt toevoegen en hoe je klantloyaliteit kunt versterken.
 
@@ -138,7 +126,7 @@ Het verband tussen het Customer Management Process en de Customer Journey Map is
 Onderzoek welke opportunities en threats er op de organisatie afkomen wat betreft de interne processen.
 :::
 
-### Leer / Groei: Continu leren en aanpassen
+### {{< fa seedling >}} Leer / Groei: Continu leren en aanpassen
 
 Het leer- en groeiperspectief van organisaties verwijst naar hun vermogen om zich continu aan te passen, te innoveren en te verbeteren.
 
@@ -174,7 +162,7 @@ Dit probleem toont de uitdaging van balanceren tussen nieuwe kansen verkennen en
 Voor een eerstejaars HBO-student: Denk aan het kiezen van een studierichting. Je kunt verschillende vakken 'verkennen' om te zien wat je leuk vindt, maar op een gegeven moment moet je een keuze maken ('exploiteren') om je te specialiseren en het meeste uit je studie te halen.
 :::
 
-### Leer / Groei \>\> Human Capital: Employee Value Proposition
+### {{< fa seedling >}} Leer / Groei \>\> Human Capital: Employee Value Proposition
 
 Het Human Capital onderdeel in Strategy Maps heeft betrekking op het managen van de vaardigheden, talenten en expertise van medewerkers om de strategische doelstellingen van een organisatie te realiseren. Met name, managen van kennis en competenties, cultuur en motivatie, en leiderschapskwaliteiten.
 
@@ -190,7 +178,7 @@ Er is duidelijk een verband tussen beide concepten. Het Human Capital onderdeel 
 -   Mortensen, M., & Edmondson, A. C. (2023). Rethink Your Employee Value Proposition Offer your people more than just flexibility. HARVARD BUSINESS REVIEW, 101(1-2), 45-49.
 :::
 
-### Leer / Groei \>\> Information Capital: Digital Maturity
+### {{< fa seedling >}} Leer / Groei \>\> Information Capital: Digital Maturity
 
 Het Strategy Maps model van Kaplan en Norton introduceert het concept van "Information Capital", wat zich richt op technologie, databases, netwerken, software en andere informatieve middelen. Deze assets spelen een centrale rol in de hedendaagse bedrijfsstrategieën, met name in het tijdperk van digitale transformatie.
 
@@ -213,7 +201,7 @@ Kortom, Information Capital vormt de ruggengraat van de digitale transformatie. 
 -   Iansiti, M., & Nadella, S. (2022). Democratizing Transformation. Harvard Business Review, 100(5-6), 42-49.
 :::
 
-### Leer / Groei \>\> Organizational Capital: Leiderschap
+### {{< fa seedling >}} Leer / Groei \>\> Organizational Capital: Leiderschap
 
 Het "Strategy Maps" model van Kaplan en Norton belicht het concept van "Organizational Capital" als een van de belangrijke immateriële activa. Organizational Capital omvat de cultuur van een bedrijf, het leiderschap, de afstemming van de strategische visie en de mogelijkheid om als een team samen te werken om gemeenschappelijke doelen te bereiken.
 

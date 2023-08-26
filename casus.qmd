@@ -29,14 +29,13 @@ Het nut van Strategy Maps is veelzijdig:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/o7Ik1OB4TaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-
 Om dit model echt effectief te gebruiken, moet je het kunnen ontleden in submodellen en concepten. Laten we enkele componenten van het Strategy Maps model nemen:
 
 1.  {{< fa money-check-dollar >}} **Financieel perspectief**: Dit kan verder worden ontleed en gerelateerd aan financiële modellen, zoals het [DuPont-analysemodel](https://youtu.be/hHuItcTJJcs?si=a3h3jzGTQECB_jgT){target="_blank"}, wat helpt bij het begrijpen van ROI via aspecten als winstmarge en vermogensomzetsnelheid.
 
-2.  {{< fa crown >}} **Klantperspectief**: Dit kan worden gekoppeld aan marketing- en CRM-modellen, zoals de Customer Journey Map, die de verschillende stadia van klantinteractie met een bedrijf laat zien.
+2.  {{< fa crown >}} **Klantperspectief**: Dit kan worden gekoppeld aan marketing- en CRM-modellen, zoals de [Customer Journey Map](https://youtu.be/X7iXcP-wIkk?si=849rab9ALRDXziis){target="_blank"}, die de verschillende stadia van klantinteractie met een bedrijf laat zien.
 
-3.  {{< fa network-wired >}} **Interne processen**: Dit kan worden verbonden met operationele modellen, zoals het Total Quality Management (TQM) voor het verbeteren van de kwaliteit van processen en producten.
+3.  {{< fa network-wired >}} **Interne processen**: Dit kan worden verbonden met operationele modellen, zoals het [Total Quality Management (TQM)](https://youtu.be/F5vtCRFRAK0?si=j165x-O4V3CiWAix){target="_blank"} voor het verbeteren van de kwaliteit van processen en producten.
 
 4.  {{< fa seedling >}} **Leer & Groei**: Hier kunnen we concepten als de Growth Mindset van Carol Dweck en modellen voor personeelsontwikkeling integreren.
 
@@ -90,7 +89,6 @@ In het Klantperspectief van Strategy Maps gaat het om de bredere vraag: "Doen we
   <iframe width="560" height="315" src="https://www.youtube.com/embed/q8d9uuO1Cf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-
 Samenvattend, het Klantperspectief en het Value Proposition Canvas vullen elkaar aan. Het eerste biedt een helikopterview over de klantstrategie, terwijl het tweede helpt om heel specifiek de klantbehoeften te matchen met wat het bedrijf te bieden heeft. Beide zijn essentieel voor bedrijven die hun klanten centraal willen stellen en succesvol willen zijn in de markt.
 
 ::: callout-note
@@ -140,7 +138,6 @@ In het **Strategy Map model** van Kaplan en Norton is het "Leer & Groei" perspec
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_X0mgOOSpLU?si=0BnOmutyLocRGZG3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-
 Het **Explore-Exploit Continuum** biedt vervolgens een kader voor hoe organisaties beslissingen nemen over waar ze hun middelen op richten. 'Explore' draait om het zoeken naar nieuwe kansen en leren, terwijl 'Exploit' gaat over het benutten van wat al bekend is. Het juiste evenwicht vinden betekent dat organisaties zowel nieuwe gebieden kunnen verkennen voor groei als profiteren van bestaande kennis en sterke punten.
 
 ![](https://global-uploads.webflow.com/64830736e7f43d491d70ef30/648310a3650c9315697f4031_Full_Map.jpeg){.my-5}

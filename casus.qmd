@@ -10,6 +10,26 @@ editor: visual
 
 [Hutten](https://www.hutten.eu){target="_blank"}
 
+## Bedrijfskundig conceptueel denken
+
+Conceptueel denken is voor een student Bedrijfskunde cruciaal. Het stelt je in staat om complexe problemen te begrijpen en te analyseren door ze te relateren aan overkoepelende concepten of modellen. Dit vermogen is niet alleen nuttig voor academische prestaties, maar ook voor praktische toepassingen in de zakelijke wereld.
+
+Neem als voorbeeld het Strategy Maps model van Kaplan en Norton. Op het hoogste niveau biedt dit model een raamwerk voor het begrijpen van hoe verschillende aspecten van een organisatie samenwerken om waarde te creëren. Maar om dit model echt effectief te gebruiken, moet je het kunnen ontleden in submodellen en concepten.
+
+Laten we enkele componenten van het Strategy Maps model nemen:
+
+1.  **Financieel perspectief**: Dit kan verder worden ontleed en gerelateerd aan financiële modellen, zoals het [DuPont-analysemodel](https://youtu.be/hHuItcTJJcs?si=a3h3jzGTQECB_jgT){target="_blank"}, wat helpt bij het begrijpen van ROI via aspecten als winstmarge en vermogensomzetsnelheid.
+
+2.  **Klantperspectief**: Dit kan worden gekoppeld aan marketing- en CRM-modellen, zoals de Customer Journey Map, die de verschillende stadia van klantinteractie met een bedrijf laat zien.
+
+3.  **Interne processen**: Dit kan worden verbonden met operationele modellen, zoals het Total Quality Management (TQM) voor het verbeteren van de kwaliteit van processen en producten.
+
+4.  **Leer & Groei**: Hier kunnen we concepten als de Growth Mindset van Carol Dweck en modellen voor personeelsontwikkeling integreren.
+
+Door conceptueel te denken, kun je het Strategy Maps model dus niet alleen als een standalone tool zien, maar als een geïntegreerd systeem dat verbonden is met tal van andere bedrijfsmodellen en -concepten. Voor een student Bedrijfskunde is het vermogen om deze verbindingen te leggen en te begrijpen hoe submodellen interageren binnen het grotere raamwerk essentieel voor zowel academisch inzicht als praktische toepassing in de echte wereld.
+
+Hieronder volgt een verkenning van een aantal modellen die je kunnen helpen bij de casus.
+
 ## Bedrijfskundig model: Strategy Maps
 
 ![Bron: https://www.pinterest.com/pin/561753753492695642/](https://i.pinimg.com/originals/8b/09/52/8b0952b108d0f37b59907ce327ba277a.jpg){.my-5}
@@ -118,6 +138,42 @@ Het verband tussen het Customer Management Process en de Customer Journey Map is
 Onderzoek welke opportunities en threats er op de organisatie afkomen wat betreft de interne processen.
 :::
 
+### Leer / Groei: Continu leren en aanpassen
+
+Het leer- en groeiperspectief van organisaties verwijst naar hun vermogen om zich continu aan te passen, te innoveren en te verbeteren.
+
+In het **Strategy Map model** van Kaplan en Norton is het "Leer & Groei" perspectief de basis. Hierin wordt het belang onderstreept van menselijk kapitaal, cultuur en leiderschap voor de algehele strategische richting van een organisatie. Het idee is dat voordat succes kan worden bereikt in andere gebieden (zoals financiën of klantrelaties), er eerst geïnvesteerd moet worden in het leren en groeien van medewerkers en de organisatie als geheel.
+
+**Carol Dweck's Growth Mindset** bouwt hierop voort door te stellen dat individuen en organisaties het potentieel voor groei en ontwikkeling zien wanneer ze geloven dat hun capaciteiten kunnen worden ontwikkeld door inspanning en ervaring. Dit staat in contrast met een vaste mindset, waarin men gelooft dat capaciteiten statisch zijn. Een Growth Mindset binnen een organisatie bevordert veerkracht, het aangaan van uitdagingen en het leren van mislukkingen.
+
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_X0mgOOSpLU?si=0BnOmutyLocRGZG3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+
+Het **Explore-Exploit Continuum** biedt vervolgens een kader voor hoe organisaties beslissingen nemen over waar ze hun middelen op richten. 'Explore' draait om het zoeken naar nieuwe kansen en leren, terwijl 'Exploit' gaat over het benutten van wat al bekend is. Het juiste evenwicht vinden betekent dat organisaties zowel nieuwe gebieden kunnen verkennen voor groei als profiteren van bestaande kennis en sterke punten.
+
+![](https://global-uploads.webflow.com/64830736e7f43d491d70ef30/648310a3650c9315697f4031_Full_Map.jpeg){.my-5}
+
+Samengevoegd benadrukken deze concepten het belang voor organisaties om een omgeving te cultiveren waarin continu leren en aanpassen centraal staat, zodat ze kunnen floreren in een steeds veranderende zakelijke landschap.
+
+::: callout-caution
+## Intermezzo: Het Multi-Armed Bandit Problem
+
+Stel je voor dat je voor een rij gokautomaten staat, ook wel 'one-armed bandits' genoemd. Elke machine geeft een verschillende hoeveelheid uitbetaling, maar je weet niet welke het meest lucratief is. Hoe bepaal je welke machine je moet spelen om zoveel mogelijk te winnen, gezien je beperkte munten?
+
+Dit dilemma staat bekend als het 'multi-armed bandit problem' in de wiskunde. Hier komt het Explore-Exploit Continuum om de hoek kijken:
+
+Explore: In het begin weet je niet welke gokautomaat het beste uitbetaalt. Dus je spendeert wat munten aan elke machine, om te 'verkennen' welke het meest lucratief lijkt. Dit is het risicovolle deel, want je weet nog niet welke machine het beste is.
+
+Exploit: Zodra je een idee hebt welke machine het beste uitbetaalt, ga je die machine vaker spelen ('exploiteren') om je winst te maximaliseren. Maar wat als je te vroeg kiest en er is een andere machine die eigenlijk beter uitbetaalt?
+
+Dit probleem toont de uitdaging van balanceren tussen nieuwe kansen verkennen en profiteren van wat je al weet. Net zoals bedrijven die moeten kiezen tussen investeren in nieuwe innovaties (explore) of focussen op hun huidige succesvolle producten (exploit).
+
+Voor een eerstejaars HBO-student: Denk aan het kiezen van een studierichting. Je kunt verschillende vakken 'verkennen' om te zien wat je leuk vindt, maar op een gegeven moment moet je een keuze maken ('exploiteren') om je te specialiseren en het meeste uit je studie te halen.
+:::
+
 ### Leer / Groei \>\> Human Capital: Employee Value Proposition
 
 Het Human Capital onderdeel in Strategy Maps heeft betrekking op het managen van de vaardigheden, talenten en expertise van medewerkers om de strategische doelstellingen van een organisatie te realiseren. Met name, managen van kennis en competenties, cultuur en motivatie, en leiderschapskwaliteiten.
@@ -149,7 +205,6 @@ De relatie tussen Information Capital en de groeifasen van digitale transformati
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vMUpzxZB3-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-
 Kortom, Information Capital vormt de ruggengraat van de digitale transformatie. Het faciliteert en versnelt de evolutie door de verschillende groeifasen, waardoor organisaties competitief blijven in een digitaal tijdperk.
 
 ::: callout-note
@@ -167,7 +222,6 @@ Het "Strategy Maps" model van Kaplan en Norton belicht het concept van "Organiza
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qzoIAJYPQwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-
 Het [Project Oxygen](https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/){target="_blank"} van Google, dat startte in 2008, had als doel de kenmerken van effectieve managers bij Google te identificeren. Uit het onderzoek kwamen in eerste instantie acht belangrijke kenmerken naar voren, waaronder het zijn van een goede coach, het ondersteunen van teamontwikkeling, het tonen van zorg voor teamleden, en het hebben van een duidelijke visie/strategie voor het team. Bij een update is de set kenmerken uitgebreid en bevat nu tien elementen.
 
 ![Bron: https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/](images/oxygen.png){.my-5}

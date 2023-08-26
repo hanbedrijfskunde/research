@@ -24,6 +24,12 @@ Het nut van Strategy Maps is veelzijdig:
 2.  **Alignering:** Het zorgt ervoor dat de strategische doelstellingen worden gealigneerd met de onderliggende processen en initiatieven. Dit bevordert een geïntegreerde aanpak voor strategie-implementatie.
 3.  **Focus:** Het helpt organisaties te concentreren op de meest kritische activiteiten die invloed hebben op strategische doelstellingen.
 
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/o7Ik1OB4TaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+
 Om dit model echt effectief te gebruiken, moet je het kunnen ontleden in submodellen en concepten. Laten we enkele componenten van het Strategy Maps model nemen:
 
 1.  {{< fa money-check-dollar >}} **Financieel perspectief**: Dit kan verder worden ontleed en gerelateerd aan financiële modellen, zoals het [DuPont-analysemodel](https://youtu.be/hHuItcTJJcs?si=a3h3jzGTQECB_jgT){target="_blank"}, wat helpt bij het begrijpen van ROI via aspecten als winstmarge en vermogensomzetsnelheid.
@@ -38,13 +44,7 @@ De doelstellingen binnen deze perspectieven worden verticaal met elkaar verbonde
 
 Door conceptueel te denken, kun je het Strategy Maps model dus niet alleen als een standalone tool zien, maar als een geïntegreerd systeem dat verbonden is met tal van andere bedrijfsmodellen en -concepten. Voor een student Bedrijfskunde is het vermogen om deze verbindingen te leggen en te begrijpen hoe submodellen interageren binnen het grotere raamwerk essentieel voor zowel academisch inzicht als praktische toepassing in de echte wereld.
 
-Hieronder volgt een verkenning van een aantal modellen die je kunnen helpen bij de casus. Het Strategy Maps model wordt hierbij als kapstop gebruikt. Hieraan worden andere modellen en concepten opgehangen en de relaties worden besproken.
-
-```{=html}
-<div class="ratio ratio-16x9 my-5">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/o7Ik1OB4TaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-```
+Hieronder volgt een verkenning van een aantal modellen die je kunnen helpen bij de casus. Het Strategy Maps model wordt hierbij als kapstok gebruikt. Hieraan worden andere modellen en concepten opgehangen en de relaties worden besproken.
 
 ## Relaties met andere modellen
 
@@ -90,6 +90,7 @@ In het Klantperspectief van Strategy Maps gaat het om de bredere vraag: "Doen we
   <iframe width="560" height="315" src="https://www.youtube.com/embed/q8d9uuO1Cf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
+
 Samenvattend, het Klantperspectief en het Value Proposition Canvas vullen elkaar aan. Het eerste biedt een helikopterview over de klantstrategie, terwijl het tweede helpt om heel specifiek de klantbehoeften te matchen met wat het bedrijf te bieden heeft. Beide zijn essentieel voor bedrijven die hun klanten centraal willen stellen en succesvol willen zijn in de markt.
 
 ::: callout-note

@@ -37,7 +37,7 @@ Om dit model echt effectief te gebruiken, moet je het kunnen ontleden in submode
 
 3.  {{< fa network-wired >}} **Interne processen**: Dit kan worden verbonden met operationele modellen, zoals het [Total Quality Management (TQM)](https://youtu.be/F5vtCRFRAK0?si=j165x-O4V3CiWAix){target="_blank"} voor het verbeteren van de kwaliteit van processen en producten.
 
-4.  {{< fa seedling >}} **Leer & Groei**: Hier kunnen we concepten als de Growth Mindset van Carol Dweck en modellen voor personeelsontwikkeling integreren.
+4.  {{< fa seedling >}} **Leer & Groei**: Hier kunnen we concepten als de Growth Mindset van Carol Dweck (zie [verder](#fa-seedling-leer-groei-continu-leren-en-aanpassen)) en modellen voor personeelsontwikkeling integreren.
 
 De doelstellingen binnen deze perspectieven worden verticaal met elkaar verbonden om de causale relaties aan te geven. Bijvoorbeeld, investeringen in opleiding (leren en groeiperspectief) kunnen leiden tot verbeterde interne processen, wat vervolgens kan leiden tot een hogere klanttevredenheid en uiteindelijk tot betere financiële resultaten.
 

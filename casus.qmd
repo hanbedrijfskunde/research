@@ -35,7 +35,7 @@ Om dit model echt effectief te gebruiken, moet je het kunnen ontleden in submode
 
 2.  {{< fa crown >}} **Klantperspectief**: Dit kan worden gekoppeld aan marketing- en CRM-modellen, zoals de [Customer Journey Map](https://youtu.be/X7iXcP-wIkk?si=849rab9ALRDXziis){target="_blank"}, die de verschillende stadia van klantinteractie met een bedrijf laat zien.
 
-3.  {{< fa network-wired >}} **Interne processen**: Dit kan worden verbonden met operationele modellen, zoals het [Total Quality Management (TQM)](https://youtu.be/F5vtCRFRAK0?si=j165x-O4V3CiWAix){target="_blank"} voor het verbeteren van de kwaliteit van processen en producten.
+3.  {{< fa network-wired >}} **Interne processen**: Dit kan worden verbonden met operationele frameworks, zoals [Lean](https://youtu.be/F5vtCRFRAK0?si=9Vw1rnIl7U6VFbi0) voor het verbeteren van de kwaliteit van processen en producten.
 
 4.  {{< fa seedling >}} **Leer & Groei**: Hier kunnen we concepten als de Growth Mindset van Carol Dweck (zie [verder](#fa-seedling-leer-groei-continu-leren-en-aanpassen)) en modellen voor personeelsontwikkeling integreren.
 

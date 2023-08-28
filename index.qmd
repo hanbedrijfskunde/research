@@ -105,7 +105,7 @@ Hier is hoe literatuuronderzoek kan bijdragen aan elke fase van het bedrijfskund
 <div class="container"
 <div class="row">
 <p>
-Soms krijg je wel een heel specifieke opdracht. Het volgende was wat een collega meemaakte aan het begin van haar loopbaan. Wat zou jij hebben gedaan?
+Soms krijg je wel een heel specifieke opdracht. Het volgende maakte collega mee aan het begin van haar loopbaan. Wat zou jij hebben gedaan?
 </p>
 </div>
   <div class="row m-3">

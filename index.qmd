@@ -1,5 +1,5 @@
 ---
-title: "Werboek Onderzoek"
+title: "Werkboek Onderzoek"
 author: "Deze tekst is grotendeels door AI gegenereerd.<br>Redactie: Witek ten Hove"
 lang: nl
 format: html

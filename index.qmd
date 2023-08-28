@@ -29,7 +29,6 @@ In de zakelijke wereld kunnen intuïtieve reacties (System 1) leiden tot overhaa
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CjVQJdIrDJ0?si=ReDCPzEd2veEOEEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-
 Dit onderscheid in denkprocessen onderstreept het belang van een grondige analyse in het bedrijfsleven. Zonder degelijke onderzoeksvaardigheden riskeren studenten te vertrouwen op ongefundeerde aannames of oppervlakkige inzichten, wat kan leiden tot suboptimale bedrijfsstrategieën. Door de integratie van onderzoek in hun toolkit zijn studenten Bedrijfskunde beter uitgerust om leiderschap te tonen en waarde toe te voegen in een competitieve markt.
 
 ::: callout-caution
@@ -88,6 +87,34 @@ Een literatuuronderzoek verschaft inzicht in de bestaande kennis, vraagstellinge
 Hier is hoe literatuuronderzoek kan bijdragen aan elke fase van het bedrijfskundig praktijkonderzoek:
 
 **Discovery:** In deze fase is literatuuronderzoek cruciaal om te begrijpen wat al bekend is over het onderwerp en hoe er naar een vraagstuk kan worden gekeken. Door de huidige literatuur te onderzoeken, kan de student een kritische blik werpen op de gaten of inconsistenties in de huidige kennis bij de opdrachtgever.
+
+::: callout-caution
+## Minicasus: Kantoorkasten
+
+```{=html}
+<div class="container"
+<div class="row">
+<p>
+Soms krijg je wel een heel specifieke opdracht. Het volgende was wat een collega meemaakte aan het begin van haar loopbaan. Wat zou jij hebben gedaan?
+</p>
+</div>
+  <div class="row">
+    <div class="col-2 m-5">
+      <img src="images/junior.jpeg" class="img-fluid rounded-start" alt="Junior Consultant">
+    </div>
+    <div class="col-8">
+        <p>Bij een bank loopt een groot project waar veel voor moet gebeuren en er is een Board Meeting gaande. Je bent een junior consultant en mag alleen als een ‘vlieg aan de muur’ meeluisteren.
+<br>
+Aan het einde van de meeting wordt, terwijl iedereen al op staat, door de opdrachtgever de volgende opmerking richting jou gemaakt,
+<br>
+“Oh, ik vergeet het bijna, kan je even twee kasten bestellen voor op de gang?”
+</p>
+      </div>
+    </div>
+</div>    
+```
+
+:::
 
 **Analysis:** Literatuur kan methoden voor gegevensanalyse aanbevelen die eerder succesvol zijn gebleken. Bovendien kan het vergelijken van eigen bevindingen met eerder gepubliceerde resultaten helpen bij het identificeren van patronen of afwijkingen.
 

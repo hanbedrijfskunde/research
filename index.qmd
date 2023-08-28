@@ -101,24 +101,41 @@ Hier is hoe literatuuronderzoek kan bijdragen aan elke fase van het bedrijfskund
 ::: callout-caution
 ## Minicasus: Kantoorkasten
 
-```{=html}
-<div class="container"
-<div class="row">
-<p>
+::: panel-tabset
+## Situatie
 Soms krijg je wel een heel specifieke opdracht. Het volgende maakte een collega mee aan het begin van haar loopbaan. Wat zou jij hebben gedaan?
-</p>
+
+![Junior Consultant](images/junior.jpeg){.my-5 alt="Junior Consultant"}
+
+Bij een bank loopt een groot project waar veel voor moet gebeuren en er is een Board Meeting gaande. Je bent een junior consultant en mag alleen als een 'vlieg aan de muur' meeluisteren. Aan het einde van de meeting wordt, terwijl iedereen al op staat, door de opdrachtgever de volgende opmerking richting jou gemaakt,
+
+"Oh, ik vergeet het bijna, kan je even twee kasten bestellen voor op de gang?"
+
+## Inspiratie
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dkuNImX8Jdo?si=O6ibz0YvdIh6RBDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-  <div class="row m-3">
-    <div class="col-2 m-2">
-      <img src="images/junior.jpeg" class="img-fluid rounded-start" alt="Junior Consultant">
-    </div>
-    <div class="col-8">
-        <p>Bij een bank loopt een groot project waar veel voor moet gebeuren en er is een Board Meeting gaande. Je bent een junior consultant en mag alleen als een ‘vlieg aan de muur’ meeluisteren. Aan het einde van de meeting wordt, terwijl iedereen al op staat, door de opdrachtgever de volgende opmerking richting jou gemaakt,
-<br>
-“Oh, ik vergeet het bijna, kan je even twee kasten bestellen voor op de gang?”
-</p>
-      </div>
-    </div>
-</div>    
+
+In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter de collega ging toch doorvragen en kwam zo achter een interessant fenomeen.
 ```
+
+**Waarom moeten er kasten worden gekocht?**<br>
+*Omdat de kasten op de afdeling Sales volzitten.*
+
+**Waarom zitten de kasten vol?**<br>
+*Omdat Sales daarin de offertes achterlaat voor de back-office ter ondertekening. Sommige offertes worden ongetekend teruggelegd door de back-office.*
+
+**Waarom worden sommige offertes niet ondertekend?**<br>
+*Omdat er informatie ontbreekt.*
+
+**Waarom vult Sales de ontbrekende informatie niet aan?**<br>
+*Omdat ze het te druk hebben.*
+
+**Waarom hebben ze het te druk?**<br>
+*Omdat ze omzet willen draaien en continue nieuwe leads aan het zoeken zijn.*
+
+Uiteindelijk bleek dus dat Sales druk bezig was extern omzet te zoeken, terwijl er -letterlijk - intern stapels aan omzet klaar lagen om gerealiseerd te worden.
+:::
+
 :::

@@ -45,13 +45,13 @@ Door conceptueel te denken, kun je het Strategy Maps model dus niet alleen als e
 
 Hieronder volgt een verkenning van een aantal modellen die je kunnen helpen bij de casus. Het Strategy Maps model wordt hierbij als kapstok gebruikt. Hieraan worden andere modellen en concepten opgehangen en de relaties worden besproken.
 
-## Relaties met andere modellen
-
 ```{=html}
 <div class="ratio ratio-16x9 my-5">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/B7H4TYxffXI?si=JX4auA7l6-f4oTCN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
+
+## Relaties met andere modellen
 
 ### {{< fa money-check-dollar >}} Financieel perspectief: Six Capitals
 

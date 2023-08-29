@@ -68,7 +68,7 @@ Onderzoek is een systematisch proces waarbij kennis wordt vergaard en uitgedrage
 
 2.  **Analysis**: Nadat de gegevens zijn verzameld, worden ze in deze fase geanalyseerd. Dit kan kwalitatief of kwantitatief zijn, afhankelijk van de onderzoeksmethode. Hier worden patronen, relaties of verschillen in de data geïdentificeerd.
 
-3.  **Writing**: Hier wordt het onderzoek omgezet in een coherent verslag of paper. Dit omvat het opstellen van de methodologie, resultaten, discussie en conclusie. Het schrijven zorgt ervoor dat het onderzoek begrijpelijk en toegankelijk is voor anderen.
+3.  **Writing**: In deze fase worden alle uitkomsten van alle voorgaande fases samengevoegd tot een kennis- of discussiestuk (bijvoorbeeld een adviesrapport of een proof of concept).
 
 4.  **Publishing**: Alle informatie omtrent het verloop van het onderzoek en de resultaten dienen te worden vastgelegd in een vorm die aansluit bij de wensen van de stakeholders. Deze wensen zijn in de vorige stap geïnventariseerd en afspraken hierover zijn samengevat in een aantal kwaliteitscriteria voor communicatie. De keuze voor de plek en vorm van publicatie hangt af van deze criteria.
 

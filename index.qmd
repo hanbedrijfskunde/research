@@ -6,6 +6,8 @@ format: html
 editor: visual
 ---
 
+![](images/logo-small.jpeg){.my-3}
+
 ## Voorwoord
 
 Dit werkboek biedt ondersteuning bij bedrijfskundig onderzoek. Op deze pagina lichten we toe waarom onderzoek essentieel is voor de jou als bedrijfskundige professional, onze onderzoeksaanpak bij HAN BK, en wat we in het A-cluster gaan ondernemen.

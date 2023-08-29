@@ -5,6 +5,7 @@ project:
 website:
   title: "HAN BK Research"
   navbar:
+    logo: "images/logo.jpeg"
     left:
       - href: index.qmd
         text: Home

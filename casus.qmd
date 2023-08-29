@@ -47,6 +47,12 @@ Hieronder volgt een verkenning van een aantal modellen die je kunnen helpen bij 
 
 ## Relaties met andere modellen
 
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/B7H4TYxffXI?si=JX4auA7l6-f4oTCN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+
 ### {{< fa money-check-dollar >}} Financieel perspectief: Six Capitals
 
 Het Financiële Perspectief uit de Strategy Maps van Kaplan en Norton kijkt naar hoe goed een bedrijf presteert in financiële zin. Dus hoeveel winst er wordt gemaakt, of de omzet groeit en of de mensen die in het bedrijf hebben geïnvesteerd (aandeelhouders) tevreden zijn.

@@ -6,7 +6,7 @@ format: html
 editor: visual
 ---
 
-![](images/logo-small.jpeg){.my-3}
+![Deze afbeelding is door AI gegenereerd.](images/logo-small.jpeg){.my-3}
 
 ## Voorwoord
 

@@ -108,41 +108,52 @@ Een term die vaak in de wereld van beleid, ontwerp en bedrijfsstrategie naar vor
 
 Kenmerken van Wicked Problems:
 
-1.  **Geen eenduidige formulering**: Wicked Problems hebben geen definitieve formulering; het definiëren van het probleem kan al een uitdaging op zich zijn.
+1.  **Geen eenduidige formulering**:
+    -   Wicked Problems hebben geen definitieve formulering; het definiëren van het probleem kan al een uitdaging op zich zijn.
+    -   **Voorbeeld**: Denk aan het bepalen van een 'gezond dieet'. Wat gezond is, kan variëren per persoon, cultuur en nieuw wetenschappelijk onderzoek.
+2.  **Geen stopregel**:
+    -   Het is onduidelijk wanneer een Wicked Problem als "opgelost" kan worden beschouwd.
+    -   **Voorbeeld**: Stel je werkt aan een groepsproject. Wanneer is het echt 'af'? Er zijn altijd wel dingen die je kunt verbeteren of anders kunt doen.
+3.  **Oplossingen zijn niet absoluut**:
+    -   Er zijn geen eenduidig juiste of onjuiste oplossingen voor Wicked Problems, slechts oplossingen die goed of minder goed zijn.
+    -   **Voorbeeld**: Bij het kiezen van een specialisatie tijdens je studie is er geen juiste of verkeerde keuze, alleen keuzes die beter of minder goed bij je passen.
+4.  **Geen directe of ultieme toetsing**:
+    -   Er is geen directe en geen definitieve test waarmee kan worden bepaald of een oplossing voor een Wicked Problem juist is.
+    -   **Voorbeeld**: Het organiseren van een evenement voor studenten. Je weet pas écht of het geslaagd is wanneer het evenement heeft plaatsgevonden.
+5.  **Elke oplossing is eenmalig**:
+    -   Oplossingen voor Wicked Problems zijn "one-shot" operaties. Vanwege het gebrek aan leermogelijkheden door trial-and-error is elke poging van groot belang.
+    -   **Voorbeeld**: Het organiseren van een introductieweek. Wat dit jaar werkt, werkt misschien volgend jaar niet vanwege veranderende omstandigheden en studentenverwachtingen.
+6.  **Niet uitputtend beschrijfbare oplossingsset**:
+    -   Voor Wicked Problems is er geen uitputtend beschrijfbare set van potentiële oplossingen, noch is er een duidelijk omschreven set van toegestane acties die in de plannen kunnen worden opgenomen.
+    -   **Voorbeeld**: Denk aan het omgaan met stress tijdens de tentamenperiode. Er zijn talloze methoden en niet allemaal zullen ze in studieboeken of workshops staan.
+7.  **Uniek in aard**:
+    -   Elk Wicked Problem is in essentie uniek, wat betekent dat ervaringen met het ene Wicked Problem niet noodzakelijk toepasbaar zijn op een ander.
+    -   **Voorbeeld**: Problemen binnen je studiegroep; hoewel je vrienden soortgelijke problemen kunnen hebben, is jouw specifieke situatie en groepsdynamiek uniek.
+8.  **Symptoom van een ander probleem**:
+    -   Elk Wicked Problem kan worden gezien als een symptoom van een ander, onderliggend probleem.
+    -   **Voorbeeld**: Als je moeite hebt om je te concentreren tijdens de les, kan het een symptoom zijn van een groter probleem, zoals slaapgebrek of persoonlijke zorgen.
+9.  **Meerdere verklaringen mogelijk**:
+    -   De discrepantie die een Wicked Problem vertegenwoordigt, kan op talloze manieren worden uitgelegd, wat leidt tot meerdere perspectieven en benaderingen.
+    -   **Voorbeeld**: Wanneer de opkomst voor een gastcollege laag is, kan dit komen door het tijdstip, de inhoud, het gebrek aan communicatie of omdat het concurrentie had van een ander evenement.
+10. **De planner mag geen fouten maken**:
+    -   Gezien de aard en de impact van beslissingen met betrekking tot Wicked Problems, is er geen ruimte voor fouten. Het is essentieel dat planners accuraat, doordacht en verantwoordelijk zijn in hun aanpak.
+    -   **Voorbeeld**: Als je verantwoordelijk bent voor het boeken van een locatie voor een groot studie-evenement, kun je het je niet veroorloven om een fout te maken in de datum of tijd, omdat dit grote gevolgen heeft voor alle betrokkenen.
 
-2.  **Geen stopregel**: Het is onduidelijk wanneer een Wicked Problem als "opgelost" kan worden beschouwd.
-
-3.  **Oplossingen zijn niet absoluut**: Er zijn geen eenduidig juiste of onjuiste oplossingen voor Wicked Problems, slechts oplossingen die goed of minder goed zijn.
-
-4.  **Geen directe of ultieme toetsing**: Er is geen directe en geen definitieve test waarmee kan worden bepaald of een oplossing voor een Wicked Problem juist is.
-
-5.  **Elke oplossing is eenmalig**: Oplossingen voor Wicked Problems zijn "one-shot" operaties. Vanwege het gebrek aan leermogelijkheden door trial-and-error is elke poging van groot belang.
-
-6.  **Niet uitputtend beschrijfbare oplossingsset**: Voor Wicked Problems is er geen uitputtend beschrijfbare set van potentiële oplossingen, noch is er een duidelijk omschreven set van toegestane acties die in de plannen kunnen worden opgenomen.
-
-7.  **Uniek in aard**: Elk Wicked Problem is in essentie uniek, wat betekent dat ervaringen met het ene Wicked Problem niet noodzakelijk toepasbaar zijn op een ander.
-
-8.  **Symptoom van een ander probleem**: Elk Wicked Problem kan worden gezien als een symptoom van een ander, onderliggend probleem.
-
-9.  **Meerdere verklaringen mogelijk**: De discrepantie die een Wicked Problem vertegenwoordigt, kan op talloze manieren worden uitgelegd, wat leidt tot meerdere perspectieven en benaderingen.
-
-10. **De planner mag geen fouten maken**: Gezien de aard en de impact van beslissingen met betrekking tot Wicked Problems, is er geen ruimte voor fouten. Het is essentieel dat planners accuraat, doordacht en verantwoordelijk zijn in hun aanpak.
-
-Deze kenmerken benadrukken de noodzaak van een diepgaande, reflectieve en kritische benadering bij het aanpakken van Wicked Problems, in lijn met het concept van System 2-denken van Kahneman.
+Deze kenmerken benadrukken de noodzaak van een diepgaande, reflectieve en kritische benadering bij het aanpakken van Wicked Problems, in lijn met het concept van System 2-denken van Kahneman (zie [Waarom is onderzoek belangrijk voor BK?]).
 
 #### Literatuuronderzoek als Hulpmiddel bij Wicked Problems
 
 Het aanpakken van Wicked Problems vereist een grondig begrip van het betreffende vraagstuk, en dit is waar literatuuronderzoek een cruciale rol speelt. Literatuuronderzoek biedt een fundament van kennis, verkregen uit eerder uitgevoerd onderzoek, en dient als een springplank voor het ontwikkelen van nieuwe inzichten en benaderingen.
 
-1. **Begrip van de context**: Wicked Problems zijn diep geworteld in hun specifieke context. Door het bestuderen van literatuur kan men inzicht krijgen in de historische, culturele, sociale en economische factoren die bijdragen aan het vraagstuk.
+1.  **Begrip van de context**: Wicked Problems zijn diep geworteld in hun specifieke context. Door het bestuderen van literatuur kan men inzicht krijgen in de historische, culturele, sociale en economische factoren die bijdragen aan het vraagstuk.
 
-2. **Diversiteit aan perspectieven**: Gezien Wicked Problems geen eenduidige oplossing hebben, is het nuttig om diverse perspectieven en benaderingen te overwegen. Literatuur kan inspiratie geven hoe je naar een probleem kunt kijken en hoe je het kunt aanpakken.
+2.  **Diversiteit aan perspectieven**: Gezien Wicked Problems geen eenduidige oplossing hebben, is het nuttig om diverse perspectieven en benaderingen te overwegen. Literatuur kan inspiratie geven hoe je naar een probleem kunt kijken en hoe je het kunt aanpakken.
 
-3. **Vermijden van eerder gemaakte fouten**: Door te leren van eerder uitgevoerde studies en projecten, kunnen planners en besluitvormers mogelijke valkuilen en onbedoelde gevolgen vermijden.
+3.  **Vermijden van eerder gemaakte fouten**: Door te leren van eerder uitgevoerde studies en projecten, kunnen planners en besluitvormers mogelijke valkuilen en onbedoelde gevolgen vermijden.
 
-4. **Identificatie van hulpmiddelen en methoden**: Literatuur kan verschillende tools, frameworks en methoden aanreiken die eerder zijn gebruikt om soortgelijke of gerelateerde problemen aan te pakken.
+4.  **Identificatie van hulpmiddelen en methoden**: Literatuur kan verschillende tools, frameworks en methoden aanreiken die eerder zijn gebruikt om soortgelijke of gerelateerde problemen aan te pakken.
 
-5. **Netwerken en samenwerking**: Door het bestuderen van literatuur kan men experts, organisaties en stakeholders identificeren die waardevol kunnen zijn voor samenwerking of verdere consultatie.
+5.  **Netwerken en samenwerking**: Door het bestuderen van literatuur kan men experts, organisaties en stakeholders identificeren die waardevol kunnen zijn voor samenwerking of verdere consultatie.
 
 Kortom, terwijl Wicked Problems uniek en complex zijn, biedt literatuuronderzoek een schat aan informatie die kan helpen bij het ontleden, begrijpen en methodisch aanpakken van deze vraagstukken. In combinatie met het diepgaande, reflectieve en kritische denken dat nodig is voor dergelijke problemen, vormt literatuuronderzoek een essentieel instrument voor effectieve besluitvorming en strategieontwikkeling.
 

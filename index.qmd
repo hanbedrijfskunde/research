@@ -102,9 +102,7 @@ Hier is hoe literatuuronderzoek kan bijdragen aan elke fase van het bedrijfskund
 
 ### Discovery: Vraagstelling
 
-Een term die vaak in de wereld van beleid, ontwerp en bedrijfsstrategie naar voren komt, is 'Wicked Problem'. De complexiteit en het unieke karakter van deze problemen maken ze uitermate uitdagend en ongrijpbaar.
-
-Wicked Problems zijn complexe, onderling afhankelijke en moeilijk te definiëren vraagstukken die geen eenvoudige of definitieve oplossing hebben. In tegenstelling tot 'tamme' problemen, die met de juiste expertise en middelen kunnen worden opgelost, zijn Wicked Problems inherent ambigu en resistent tegen standaardoplossingen.
+Een term die vaak in de wereld van beleid, ontwerp en bedrijfsstrategie naar voren komt, is 'Wicked Problems': complexe, onderling afhankelijke en moeilijk te definiëren vraagstukken die geen eenvoudige of definitieve oplossing hebben. In tegenstelling tot 'tamme' problemen, die met de juiste expertise en middelen kunnen worden opgelost, zijn Wicked Problems inherent ambigu en resistent tegen standaardoplossingen.
 
 ![](https://www.wicked7.org/wp-content/uploads/2020/04/wickedproperties-1-947x1024.jpg){.my-5}
 

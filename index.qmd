@@ -100,11 +100,45 @@ Hier is hoe literatuuronderzoek kan bijdragen aan elke fase van het bedrijfskund
 
 **Assessment:** Reflecteren op het eigen onderzoek in de context van bestaande literatuur kan helpen bij het identificeren van sterke punten, verbeterpunten en toekomstige onderzoeksmogelijkheden. Feedback van gebruikers kan ook worden vergeleken met bevindingen uit de literatuur om het eigen leerproces te verrijken.
 
+### Discovery: Vraagstelling
+
+Een term die vaak in de wereld van beleid, ontwerp en bedrijfsstrategie naar voren komt, is 'Wicked Problem'. De complexiteit en het unieke karakter van deze problemen maken ze uitermate uitdagend en ongrijpbaar.
+
+Wicked Problems zijn complexe, onderling afhankelijke en moeilijk te definiëren vraagstukken die geen eenvoudige of definitieve oplossing hebben. In tegenstelling tot 'tamme' problemen, die met de juiste expertise en middelen kunnen worden opgelost, zijn Wicked Problems inherent ambigu en resistent tegen standaardoplossingen.
+
+![](https://www.wicked7.org/wp-content/uploads/2020/04/wickedproperties-1-947x1024.jpg){.my-5}
+
+**Kenmerken van Wicked Problems:**
+
+1.  **Geen eenduidige formulering**: Wicked Problems hebben geen definitieve formulering; het definiëren van het probleem kan al een uitdaging op zich zijn.
+
+2.  **Geen stopregel**: Het is onduidelijk wanneer een Wicked Problem als "opgelost" kan worden beschouwd.
+
+3.  **Oplossingen zijn niet absoluut**: Er zijn geen eenduidig juiste of onjuiste oplossingen voor Wicked Problems, slechts oplossingen die goed of minder goed zijn.
+
+4.  **Geen directe of ultieme toetsing**: Er is geen directe en geen definitieve test waarmee kan worden bepaald of een oplossing voor een Wicked Problem juist is.
+
+5.  **Elke oplossing is eenmalig**: Oplossingen voor Wicked Problems zijn "one-shot" operaties. Vanwege het gebrek aan leermogelijkheden door trial-and-error is elke poging van groot belang.
+
+6.  **Niet uitputtend beschrijfbare oplossingsset**: Voor Wicked Problems is er geen uitputtend beschrijfbare set van potentiële oplossingen, noch is er een duidelijk omschreven set van toegestane acties die in de plannen kunnen worden opgenomen.
+
+7.  **Uniek in aard**: Elk Wicked Problem is in essentie uniek, wat betekent dat ervaringen met het ene Wicked Problem niet noodzakelijk toepasbaar zijn op een ander.
+
+8.  **Symptoom van een ander probleem**: Elk Wicked Problem kan worden gezien als een symptoom van een ander, onderliggend probleem.
+
+9.  **Meerdere verklaringen mogelijk**: De discrepantie die een Wicked Problem vertegenwoordigt, kan op talloze manieren worden uitgelegd, wat leidt tot meerdere perspectieven en benaderingen.
+
+10. **De planner mag geen fouten maken**: Gezien de aard en de impact van beslissingen met betrekking tot Wicked Problems, is er geen ruimte voor fouten. Het is essentieel dat planners accuraat, doordacht en verantwoordelijk zijn in hun aanpak.
+
+Deze kenmerken benadrukken de noodzaak van een diepgaande, reflectieve en kritische benadering bij het aanpakken van Wicked Problems, in lijn met het concept van System 2-denken van Kahneman.
+
+------------------------------------------------------------------------
+
 ::: callout-caution
-### Minicasus: Kantoorkasten
+#### Minicasus: Kantoorkasten
 
 ::: panel-tabset
-### Situatie
+##### Situatie
 
 Soms krijg je wel een heel specifieke opdracht. Het volgende maakte een collega mee aan het begin van haar loopbaan. Wat zou jij hebben gedaan?
 
@@ -114,7 +148,7 @@ Bij een bank loopt een groot project waar veel voor moet gebeuren en er is een B
 
 "Oh, ik vergeet het bijna, kan je even twee kasten bestellen voor op de gang?"
 
-### Uitleg
+##### Uitleg
 
 ```{=html}
 <div class="ratio ratio-16x9 my-5">

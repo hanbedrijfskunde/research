@@ -380,7 +380,7 @@ CRAAP kun je op dezelfde wijze toepassen. Hieronder vind je een hulpmiddel.
 				<label for="relevanceScore" class="form-label">Relevantie:</label>
 				<select class="form-control text-wrap" id="relevanceScore" name="relevanceScore">
 					<option value="0">
-						0 - Als dit NVT krijgt, zoek dan een andere bron!
+						0 - Als dit nul of NVT krijgt, zoek dan een andere bron!
 					</option>
 					<option value="1">
 						1 - De informatie dekt mijn onderwerp of behoefte nauwelijks en/of

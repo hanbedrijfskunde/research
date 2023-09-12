@@ -432,7 +432,7 @@ CRAAP kun je op dezelfde wijze toepassen. Hieronder vind je een hulpmiddel.
 				<label for="accuracyScore" class="form-label">Nauwkeurigheid:</label>
 				<select class="form-control text-wrap" id="accuracyScore" name="accuracyScore">
 					<option value="0">
-						0 - Er is geen bewijs, slechts een mening of regelrechte belediging.
+						0 - Er is geen bewijs, slechts een mening of stemmingmakerij.
 					</option>
 					<option value="1">
 						1 - Er is enig bewijs, maar het is ofwel niet geciteerd, de auteur

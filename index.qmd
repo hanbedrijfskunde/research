@@ -260,24 +260,24 @@ CRAAP kun je op dezelfde wijze toepassen. Hieronder vind je een hulpmiddel.
 
 1. **Open het Formulier (volgende tabblad)**  
 
-2. **Vul je Gegevens in:**  
+2. **Vul je gegevens in:**  
    - **Voornaam:** Alhoewel er in dit geval geen gegevens worden bewaard, is het algemeen wijzer zo weinig mogelijk persoonsgegevens te delen. Gebruik daarom hier alleen je voornaam.
-   - **Titel van de Informatiebron:** Noteer de titel van het artikel of de bron die je evalueert.
+   - **Titel van de informatiebron:** Noteer de titel van het artikel of de bron die je evalueert.
    - **Auteur(s):** Vermeld de naam of namen van de auteurs van de bron.
-   - **Type Bron:** Specificeer wat voor soort bron het is (bijv. boek, artikel, website).
+   - **Type bron:** Specificeer wat voor soort bron het is (bijv. boek, artikel, website).
    - **Datum van de Bron:** Geef de publicatiedatum van de bron aan.
-   - **Locatie van de Bron:** Beschrijf waar je de bron hebt gevonden (bijv. URL voor websites).
+   - **Locatie van de bron:** Beschrijf waar je de bron hebt gevonden (bijv. URL voor websites).
 
-3. **Evalueer de Bron:**  
+3. **Evalueer de bron:**  
    Voor elk van de criteria, selecteer een score uit de dropdown menu's op basis van hoe goed je denkt dat de bron voldoet aan het betreffende criterium.
 
-4. **Voeg de Beoordeling Toe:**  
+4. **Sla de beoordeling op:**  
    Klik op de "Opslaan" knop. Je beoordeling wordt opgeslagen en de som van alles scores wordt berekend.
 
-5. **Voeg de Beoordeling Toe:**  
+5. **Voeg een nieuwe beoordeling toe:**  
    Als je nog een bron wilt beoordelen, klik dan op "Reset" en vul alle velden opnieuw in.
 
-5. **Download je Beoordelingen:**  
+5. **Download je beoordelingen:**  
    Zodra je klaar bent met het beoordelen van alle bronnen, klik je op de "Download CSV" knop. Een CSV-bestand met al je beoordelingen wordt gedownload naar je computer. Je kunt dit bestand openen met programma's zoals Microsoft Excel of Google Sheets om je beoordelingen te bekijken.
 
 ---

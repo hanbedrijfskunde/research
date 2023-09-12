@@ -145,7 +145,7 @@ Kenmerken van Wicked Problems:
 
 Deze kenmerken benadrukken de noodzaak van een diepgaande, reflectieve en kritische benadering bij het aanpakken van Wicked Problems, in lijn met het concept van System 2-denken van Kahneman (zie [Waarom is onderzoek belangrijk voor BK?]).
 
-#### Literatuuronderzoek als Hulpmiddel bij Wicked Problems
+#### Literatuuronderzoek als hulpmiddel bij Wicked Problems
 
 Het aanpakken van Wicked Problems vereist een grondig begrip van het betreffende vraagstuk, en dit is waar literatuuronderzoek een cruciale rol speelt. Literatuuronderzoek biedt een fundament van kennis, verkregen uit eerder uitgevoerd onderzoek, en dient als een springplank voor het ontwikkelen van nieuwe inzichten en benaderingen.
 
@@ -200,6 +200,8 @@ Uiteindelijk bleek dus dat Sales druk bezig was extern omzet te zoeken, terwijl 
 
 ### Discovery: Beoordeling kwaliteit informatiebronnen
 
+Het is belangrijk om informatie te beoordelen, omdat je wilt dat je de juiste informatie gebruikt om beslissingen te nemen. In de bedrijfswereld is dit van groot belang, omdat je op de hoogte moet zijn van de laatste ontwikkelingen om te kunnen concurreren met andere bedrijven.
+
 **AAOCC of CRAAP criteria voor bedrijfskunde studenten**
 
 AAOCC en CRAAP zijn twee verschillende frameworks voor het beoordelen van informatie. AAOCC staat voor Authority, Accuracy, Objectivity, Currency en Coverage, en CRAAP is de afkorting van Currency, Relevance, Authority, Accuracy en Purpose. Ze zijn makkelijk naar elkaar te vertalen.
@@ -211,10 +213,6 @@ AAOCC en CRAAP zijn twee verschillende frameworks voor het beoordelen van inform
 | Objectivity | Purpose   |
 | Currency    | Currency  |
 | Coverage    | Relevance |
-
-**Waarom is het belangrijk?**
-
-Het is belangrijk om informatie te beoordelen, omdat je wilt dat je de juiste informatie gebruikt om beslissingen te nemen. In de bedrijfswereld is dit van groot belang, omdat je op de hoogte moet zijn van de laatste ontwikkelingen om te kunnen concurreren met andere bedrijven.
 
 **Hoe werkt het?**
 
@@ -245,6 +243,12 @@ Een voorbeeld van hoe AAOCC of CRAAP kan worden toegepast, is het beoordelen van
 -   **Currency**: Is het artikel recent gepubliceerd? Is het artikel binnen de afgelopen paar jaar gepubliceerd?
 
 -   **Coverage**: Worden alle belangrijke ontwikkelingen in de technologiesector genoemd?
+
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vTpmT9f5Re0?si=PzFy12PfaNsb4zXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
 
 CRAAP kun je op dezelfde wijze toepassen. Hieronder vind je een hulpmiddel.
 

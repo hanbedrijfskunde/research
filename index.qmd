@@ -198,6 +198,13 @@ Uiteindelijk bleek dus dat Sales druk bezig was extern omzet te zoeken, terwijl 
 :::
 :::
 
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_vS_b7cJn2A?si=yfFk3o-_J15x1C1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+
+
 ### Discovery: Beoordeling kwaliteit informatiebronnen
 
 Het is belangrijk om informatie te beoordelen, omdat je wilt dat je de juiste informatie gebruikt om beslissingen te nemen. In de bedrijfswereld is dit van groot belang, omdat je op de hoogte moet zijn van de laatste ontwikkelingen om te kunnen concurreren met andere bedrijven.

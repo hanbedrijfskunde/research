@@ -1,9 +1,18 @@
 <script>
+			const assessments = [];
+
 			document
 				.getElementById("craapForm")
 				.addEventListener("submit", function (event) {
 					event.preventDefault();
 
+					const studentName = document.getElementById("studentName").value;
+					const authors = document.getElementById("authors").value;
+					const sourceTitle = document.getElementById("sourceTitle").value;
+					const resourceType = document.getElementById("resourceType").value;
+					const resourceDate = document.getElementById("resourceDate").value;
+					const resourceLocation =
+						document.getElementById("resourceLocation").value;
 					const currencyScore = parseInt(
 						document.getElementById("currencyScore").value
 					);
@@ -19,7 +28,6 @@
 					const purposeScore = parseInt(
 						document.getElementById("purposeScore").value
 					);
-
 					const total =
 						currencyScore +
 						relevanceScore +
@@ -28,5 +36,43 @@
 						purposeScore;
 
 					document.getElementById("totalScore").textContent = total;
+
+					assessments.push({
+						Student: studentName,
+						Auteurs: authors,
+						Titel: sourceTitle,
+						Type: resourceType,
+						Datum: resourceDate,
+						Locatie: resourceLocation,
+						Currency: currencyScore,
+						Relevance: relevanceScore,
+						Authority: authorityScore,
+						Accuracy: accuracyScore,
+						Purpose: purposeScore,
+						Total: total,
+					});
+
+					// alert("Artikel toegevoegd!");
+				});
+
+			document.getElementById("reset").addEventListener("click", function () {
+				document.getElementById("craapForm").reset();
+				document.getElementById("totalScore").textContent = "";
+			});
+
+			document
+				.getElementById("download")
+				.addEventListener("click", function () {
+					const csvContent =
+						"data:text/csv;charset=utf-8," +
+						"Student,Auteurs,Titel,Type,Datum,Locatie,Currency,Relevance,Authority,Accuracy,Purpose,Total\n" +
+						assessments.map((e) => Object.values(e).join(",")).join("\n");
+
+					const encodedUri = encodeURI(csvContent);
+					const link = document.createElement("a");
+					link.setAttribute("href", encodedUri);
+					link.setAttribute("download", "craap_assessments.csv");
+					document.body.appendChild(link);
+					link.click();
 				});
 		</script>

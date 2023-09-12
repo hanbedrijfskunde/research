@@ -416,10 +416,55 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vTpmT9f5Re0?si=PzFy12PfaNsb4zXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </div>
 <p>CRAAP kun je op dezelfde wijze toepassen. Hieronder vind je een hulpmiddel.</p>
-<form id="craapForm">
-            <h2 class="anchored" data-anchor-id="discovery-beoordeling-kwaliteit-informatiebronnen">CRAAP Test rubric voor het evalueren van informatiebronnen</h2>
-            <p>Dit formulier is een gebaseerd op deze <a href="https://udc.libguides.com/ld.php?content_id=49188566" target="_blank">bron</a></p>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+CRAAP test rubric voor evaluatie informatiebronnen
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-3-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-1" role="tab" aria-controls="tabset-3-1" aria-selected="true">Uitleg</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-3-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-2" role="tab" aria-controls="tabset-3-2" aria-selected="false">Formulier</a></li></ul>
+<div class="tab-content">
+<div id="tabset-3-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-3-1-tab">
+<ol type="1">
+<li><p><strong>Open het Formulier (volgende tabblad)</strong></p></li>
+<li><p><strong>Vul je Gegevens in:</strong></p>
+<ul>
+<li><strong>Voornaam:</strong> Alhoewel er in dit geval geen gegevens worden bewaard, is het algemeen wijzer zo weinig mogelijk persoonsgegevens te delen. Gebruik daarom hier alleen je voornaam.</li>
+<li><strong>Titel van de Informatiebron:</strong> Noteer de titel van het artikel of de bron die je evalueert.</li>
+<li><strong>Auteur(s):</strong> Vermeld de naam of namen van de auteurs van de bron.</li>
+<li><strong>Type Bron:</strong> Specificeer wat voor soort bron het is (bijv. boek, artikel, website).</li>
+<li><strong>Datum van de Bron:</strong> Geef de publicatiedatum van de bron aan.</li>
+<li><strong>Locatie van de Bron:</strong> Beschrijf waar je de bron hebt gevonden (bijv. URL voor websites).</li>
+</ul></li>
+<li><p><strong>Evalueer de Bron:</strong><br>
+Voor elk van de criteria, selecteer een score uit de dropdown menu’s op basis van hoe goed je denkt dat de bron voldoet aan het betreffende criterium.</p></li>
+<li><p><strong>Voeg de Beoordeling Toe:</strong><br>
+Klik op de “Opslaan” knop. Je beoordeling wordt opgeslagen en de som van alles scores wordt berekend.</p></li>
+<li><p><strong>Voeg de Beoordeling Toe:</strong><br>
+Als je nog een bron wilt beoordelen, klik dan op “Reset” en vul alle velden opnieuw in.</p></li>
+<li><p><strong>Download je Beoordelingen:</strong><br>
+Zodra je klaar bent met het beoordelen van alle bronnen, klik je op de “Download CSV” knop. Een CSV-bestand met al je beoordelingen wordt gedownload naar je computer. Je kunt dit bestand openen met programma’s zoals Microsoft Excel of Google Sheets om je beoordelingen te bekijken.</p></li>
+</ol>
+<hr>
+<p><strong>Tips:</strong></p>
+<ul>
+<li>Neem de tijd om elke bron zorgvuldig te beoordelen. De CRAAP-test is een waardevol instrument om de kwaliteit en betrouwbaarheid van een bron te bepalen.</li>
+<li>Als je twijfelt over een bepaald criterium, bespreek dit dan met je medestudenten of vraag je docent om advies.</li>
+</ul>
+<hr>
+<p><strong>Veel succes met je beoordelingen!</strong></p>
+</div>
+<div id="tabset-3-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-3-2-tab">
+<h2 class="anchored" data-anchor-id="discovery-beoordeling-kwaliteit-informatiebronnen">CRAAP Test Rubric voor het evalueren van informatiebronnen</h2>
+<div class="my-3">Het onderstaande formulier is gebaseerd op deze <a href="https://udc.libguides.com/ld.php?content_id=49188566" target="_blank">template</a> van de <a href="https://udc.libguides.com/evaluating_sources" target="_blank">UDC Library</a>
+</div>
 
+        <form class="mb-3" id="craapForm">
             <div class="mb-3">
                 <label for="studentName" class="form-label">Voornaam student:</label>
                 <input type="text" class="form-control" id="studentName" name="studentName">
@@ -454,7 +499,7 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
 
             <div class="mb-3">
                 <label for="currencyScore" class="form-label">Actualiteit:</label>
-                <select class="form-control" id="currencyScore" name="currencyScore">
+                <select class="form-control text-wrap" id="currencyScore" name="currencyScore">
                     <option value="0">
                         0 - Mijn onderwerp is tijdloos, dus actualiteit maakt niet uit
                     </option>
@@ -472,7 +517,7 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
 
             <div class="mb-3">
                 <label for="relevanceScore" class="form-label">Relevantie:</label>
-                <select class="form-control" id="relevanceScore" name="relevanceScore">
+                <select class="form-control text-wrap" id="relevanceScore" name="relevanceScore">
                     <option value="0">
                         0 - Als dit NVT krijgt, zoek dan een andere bron!
                     </option>
@@ -494,8 +539,8 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
             </div>
 
             <div class="mb-3">
-                <label for="authorityScore" class="form-label">Autoriteit:</label>
-                <select class="form-control" id="authorityScore" name="authorityScore">
+                <label for="authorityScore" class="form-label ">Autoriteit:</label>
+                <select class="form-control text-wrap" id="authorityScore" name="authorityScore">
                     <option value="0">
                         0 - Er is geen informatie over de auteur of de sponsor, noch is er
                         een "over ons" sectie of contactinformatie.
@@ -505,21 +550,21 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
                         uitleg of de auteur expertise heeft over het onderwerp.
                     </option>
                     <option value="2">
-                        2 - Ik kan de auteur en sponsor identificeren, maar merk op dat de
-                        auteur niet veel ervaring of autoriteit heeft over het onderwerp.
+                        2 - Ik kan de auteur en sponsor identificeren, maar vermoed dat de
+                        auteur niet veel kennis of ervaring heeft wat betreft het onderwerp.
                     </option>
                     <option value="3">
                         3 - Ik kan de auteur en sponsor identificeren, en de auteur toont
-                        duidelijk veel ervaring en/of onderzoek over het onderwerp.
+                        duidelijk veel kennis en ervaring te hebben m.b.t. het onderwerp.
                     </option>
                 </select>
             </div>
 
             <div class="mb-3">
                 <label for="accuracyScore" class="form-label">Nauwkeurigheid:</label>
-                <select class="form-control" id="accuracyScore" name="accuracyScore">
+                <select class="form-control text-wrap" id="accuracyScore" name="accuracyScore">
                     <option value="0">
-                        0 - Er is geen bewijs, slechts een mening of regelrechte vlammen.
+                        0 - Er is geen bewijs, slechts een mening of regelrechte belediging.
                     </option>
                     <option value="1">
                         1 - Er is enig bewijs, maar het is ofwel niet geciteerd, de auteur
@@ -527,22 +572,22 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
                     </option>
                     <option value="2">
                         2 - De auteur gebruikt bewijs, maar als ik ernaar kijk, kan ik
-                        duidelijk zien dat de auteur het bewijs heeft verkeerd begrepen,
-                        verkeerd gebruikt of cherry-picked.
+                        duidelijk zien dat de auteur het bewijs verkeerd heeft begrepen,
+                        verkeerd gebruikt of subjectief uitlegt
                     </option>
                     <option value="3">
                         3 - De auteur gebruikt uitgebreid, hoogwaardig bewijs dat volledig
-                        is geciteerd/gelinkt en wanneer ik ernaar kijk, heeft de auteur het
+                        is geciteerd/gelinkt en coor zover ik het kan overzien, heeft de auteur het
                         bewijs nauwkeurig weergegeven.
                     </option>
                 </select>
             </div>
 
-            <div class="mb-3">
+            <div class="mb-5">
                 <label for="purposeScore" class="form-label">Doel:</label>
-                <select class="form-control" id="purposeScore" name="purposeScore">
+                <select class="form-control text-wrap" id="purposeScore" name="purposeScore">
                     <option value="0">
-                        0 - Het doel van de bron is om emoties te ontvlammen of
+                        0 - Het doel van de bron is om emoties op te wekken of
                         desinformatie te verspreiden, niet om te helpen bij het oplossen van
                         een probleem, het nemen van een belangrijke beslissing, het leveren
                         van bewijs voor nieuw inzicht of het verstrekken van onpartijdige
@@ -571,10 +616,20 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
                 </select>
             </div>
 
-            <button type="submit" class="btn btn-primary">Indienen</button>
+            <button type="submit" class="btn btn-primary btn-lg">Opslaan</button>
         </form>
-
-        <h3 class="mt-5 anchored">Totaal: <span id="totalScore"></span></h3>
+        <h3 class="mb-3 anchored">Totaal: <span id="totalScore"></span></h3>
+        <div class="my-3">
+            <button class="btn btn-warning btn-lg" id="reset">Reset</button>
+        </div>
+        <div class="my-3">
+            <button class="btn btn-info btn-lg" id="download">Download CSV</button>
+        </div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 
 </section>
@@ -582,11 +637,20 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
 
 </main> <!-- /main -->
 <script>
+			const assessments = [];
+
 			document
 				.getElementById("craapForm")
 				.addEventListener("submit", function (event) {
 					event.preventDefault();
 
+					const studentName = document.getElementById("studentName").value;
+					const authors = document.getElementById("authors").value;
+					const sourceTitle = document.getElementById("sourceTitle").value;
+					const resourceType = document.getElementById("resourceType").value;
+					const resourceDate = document.getElementById("resourceDate").value;
+					const resourceLocation =
+						document.getElementById("resourceLocation").value;
 					const currencyScore = parseInt(
 						document.getElementById("currencyScore").value
 					);
@@ -602,7 +666,6 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
 					const purposeScore = parseInt(
 						document.getElementById("purposeScore").value
 					);
-
 					const total =
 						currencyScore +
 						relevanceScore +
@@ -611,6 +674,44 @@ In eerste instantie lijkt het een rare opdracht voor een Bedrijfskundige. Echter
 						purposeScore;
 
 					document.getElementById("totalScore").textContent = total;
+
+					assessments.push({
+						Student: studentName,
+						Auteurs: authors,
+						Titel: sourceTitle,
+						Type: resourceType,
+						Datum: resourceDate,
+						Locatie: resourceLocation,
+						Currency: currencyScore,
+						Relevance: relevanceScore,
+						Authority: authorityScore,
+						Accuracy: accuracyScore,
+						Purpose: purposeScore,
+						Total: total,
+					});
+
+					// alert("Artikel toegevoegd!");
+				});
+
+			document.getElementById("reset").addEventListener("click", function () {
+				document.getElementById("craapForm").reset();
+				document.getElementById("totalScore").textContent = "";
+			});
+
+			document
+				.getElementById("download")
+				.addEventListener("click", function () {
+					const csvContent =
+						"data:text/csv;charset=utf-8," +
+						"Student,Auteurs,Titel,Type,Datum,Locatie,Currency,Relevance,Authority,Accuracy,Purpose,Total\n" +
+						assessments.map((e) => Object.values(e).join(",")).join("\n");
+
+					const encodedUri = encodeURI(csvContent);
+					const link = document.createElement("a");
+					link.setAttribute("href", encodedUri);
+					link.setAttribute("download", "craap_assessments.csv");
+					document.body.appendChild(link);
+					link.click();
 				});
 		</script>
 <script id="quarto-html-after-body" type="application/javascript">

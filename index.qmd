@@ -252,192 +252,245 @@ Een voorbeeld van hoe AAOCC of CRAAP kan worden toegepast, is het beoordelen van
 
 CRAAP kun je op dezelfde wijze toepassen. Hieronder vind je een hulpmiddel.
 
+::: callout-caution
+#### CRAAP test rubric voor evaluatie informatiebronnen
+
+::: panel-tabset
+##### Uitleg
+
+1. **Open het Formulier (volgende tabblad)**  
+
+2. **Vul je Gegevens in:**  
+   - **Voornaam:** Alhoewel er in dit geval geen gegevens worden bewaard, is het algemeen wijzer zo weinig mogelijk persoonsgegevens te delen. Gebruik daarom hier alleen je voornaam.
+   - **Titel van de Informatiebron:** Noteer de titel van het artikel of de bron die je evalueert.
+   - **Auteur(s):** Vermeld de naam of namen van de auteurs van de bron.
+   - **Type Bron:** Specificeer wat voor soort bron het is (bijv. boek, artikel, website).
+   - **Datum van de Bron:** Geef de publicatiedatum van de bron aan.
+   - **Locatie van de Bron:** Beschrijf waar je de bron hebt gevonden (bijv. URL voor websites).
+
+3. **Evalueer de Bron:**  
+   Voor elk van de criteria, selecteer een score uit de dropdown menu's op basis van hoe goed je denkt dat de bron voldoet aan het betreffende criterium.
+
+4. **Voeg de Beoordeling Toe:**  
+   Klik op de "Opslaan" knop. Je beoordeling wordt opgeslagen en de som van alles scores wordt berekend.
+
+5. **Voeg de Beoordeling Toe:**  
+   Als je nog een bron wilt beoordelen, klik dan op "Reset" en vul alle velden opnieuw in.
+
+5. **Download je Beoordelingen:**  
+   Zodra je klaar bent met het beoordelen van alle bronnen, klik je op de "Download CSV" knop. Een CSV-bestand met al je beoordelingen wordt gedownload naar je computer. Je kunt dit bestand openen met programma's zoals Microsoft Excel of Google Sheets om je beoordelingen te bekijken.
+
+---
+
+**Tips:**
+
+- Neem de tijd om elke bron zorgvuldig te beoordelen. De CRAAP-test is een waardevol instrument om de kwaliteit en betrouwbaarheid van een bron te bepalen.
+- Als je twijfelt over een bepaald criterium, bespreek dit dan met je medestudenten of vraag je docent om advies.
+
+---
+
+**Veel succes met je beoordelingen!**
+
+##### Formulier
 ```{=html}
-<form id="craapForm">
-            <h2>CRAAP Test rubric voor het evalueren van informatiebronnen</h2>
-            <p>Dit formulier is een gebaseerd op deze <a href="https://udc.libguides.com/ld.php?content_id=49188566" target="_blank">bron</a></p>
+<h2>CRAAP Test Rubric voor het evalueren van informatiebronnen</h2>
+<div class="my-3">Het onderstaande formulier is gebaseerd op deze <a href="https://udc.libguides.com/ld.php?content_id=49188566" target="_blank">template</a> van de <a href="https://udc.libguides.com/evaluating_sources" target="_blank">UDC Library</a>
+</div>
 
-            <div class="mb-3">
-                <label for="studentName" class="form-label">Voornaam student:</label>
-                <input
-                    type="text"
-                    class="form-control"
-                    id="studentName"
-                    name="studentName"
-                />
-            </div>
+		<form class="mb-3" id="craapForm">
+			<div class="mb-3">
+				<label for="studentName" class="form-label">Voornaam student:</label>
+				<input
+					type="text"
+					class="form-control"
+					id="studentName"
+					name="studentName"
+				/>
+			</div>
 
-            <div class="mb-3">
-                <label for="sourceTitle" class="form-label"
-                    >Titel van de informatiebron:</label
-                >
-                <input
-                    type="text"
-                    class="form-control"
-                    id="sourceTitle"
-                    name="sourceTitle"
-                />
-            </div>
+			<div class="mb-3">
+				<label for="sourceTitle" class="form-label"
+					>Titel van de informatiebron:</label
+				>
+				<input
+					type="text"
+					class="form-control"
+					id="sourceTitle"
+					name="sourceTitle"
+				/>
+			</div>
 
-            <div class="mb-3">
-                <label for="authors" class="form-label">Auteur(s):</label>
-                <input type="text" class="form-control" id="authors" name="authors" />
-            </div>
+			<div class="mb-3">
+				<label for="authors" class="form-label">Auteur(s):</label>
+				<input type="text" class="form-control" id="authors" name="authors" />
+			</div>
 
-            <div class="mb-3">
-                <label for="resourceType" class="form-label">Type bron:</label>
-                <input
-                    type="text"
-                    class="form-control"
-                    id="resourceType"
-                    name="resourceType"
-                />
-            </div>
+			<div class="mb-3">
+				<label for="resourceType" class="form-label">Type bron:</label>
+				<input
+					type="text"
+					class="form-control"
+					id="resourceType"
+					name="resourceType"
+				/>
+			</div>
 
-            <div class="mb-3">
-                <label for="resourceDate" class="form-label">Datum van de bron:</label>
-                <input
-                    type="date"
-                    class="form-control"
-                    id="resourceDate"
-                    name="resourceDate"
-                />
-            </div>
+			<div class="mb-3">
+				<label for="resourceDate" class="form-label">Datum van de bron:</label>
+				<input
+					type="date"
+					class="form-control"
+					id="resourceDate"
+					name="resourceDate"
+				/>
+			</div>
 
-            <div class="mb-3">
-                <label for="resourceLocation" class="form-label"
-                    >Locatie van de bron:</label
-                >
-                <textarea
-                    class="form-control"
-                    id="resourceLocation"
-                    name="resourceLocation"
-                ></textarea>
-            </div>
+			<div class="mb-3">
+				<label for="resourceLocation" class="form-label"
+					>Locatie van de bron:</label
+				>
+				<textarea
+					class="form-control"
+					id="resourceLocation"
+					name="resourceLocation"
+				></textarea>
+			</div>
 
-            <h3>Subscores voor elk element</h3>
+			<h3>Subscores voor elk element</h3>
 
-            <div class="mb-3">
-                <label for="currencyScore" class="form-label">Actualiteit:</label>
-                <select class="form-control" id="currencyScore" name="currencyScore">
-                    <option value="0">
-                        0 - Mijn onderwerp is tijdloos, dus actualiteit maakt niet uit
-                    </option>
-                    <option value="1">
-                        1 - Actualiteit doet ertoe en de bron is ouder dan 15 jaar
-                    </option>
-                    <option value="2">
-                        2 - Actualiteit doet ertoe en de bron is 5-10 jaar oud
-                    </option>
-                    <option value="3">
-                        3 - Actualiteit doet ertoe en de bron is minder dan 5 jaar oud
-                    </option>
-                </select>
-            </div>
+			<div class="mb-3">
+				<label for="currencyScore" class="form-label">Actualiteit:</label>
+				<select class="form-control text-wrap" id="currencyScore" name="currencyScore">
+					<option value="0">
+						0 - Mijn onderwerp is tijdloos, dus actualiteit maakt niet uit
+					</option>
+					<option value="1">
+						1 - Actualiteit doet ertoe en de bron is ouder dan 15 jaar
+					</option>
+					<option value="2">
+						2 - Actualiteit doet ertoe en de bron is 5-10 jaar oud
+					</option>
+					<option value="3">
+						3 - Actualiteit doet ertoe en de bron is minder dan 5 jaar oud
+					</option>
+				</select>
+			</div>
 
-            <div class="mb-3">
-                <label for="relevanceScore" class="form-label">Relevantie:</label>
-                <select class="form-control" id="relevanceScore" name="relevanceScore">
-                    <option value="0">
-                        0 - Als dit NVT krijgt, zoek dan een andere bron!
-                    </option>
-                    <option value="1">
-                        1 - De informatie dekt mijn onderwerp of behoefte nauwelijks en/of
-                        is geschreven voor kinderen of voor een super-expert.
-                    </option>
-                    <option value="2">
-                        2 - De inhoud van deze bron dekt mijn onderwerp of behoefte, maar is
-                        niet helemaal op het juiste niveau (te makkelijk of te moeilijk te
-                        begrijpen).
-                    </option>
-                    <option value="3">
-                        3 - De inhoud van deze bronnen dekt mijn onderwerp/behoefte, is op
-                        het juiste moeilijkheidsniveau en is geschikt voor de context van
-                        mijn behoefte.
-                    </option>
-                </select>
-            </div>
+			<div class="mb-3">
+				<label for="relevanceScore" class="form-label">Relevantie:</label>
+				<select class="form-control text-wrap" id="relevanceScore" name="relevanceScore">
+					<option value="0">
+						0 - Als dit NVT krijgt, zoek dan een andere bron!
+					</option>
+					<option value="1">
+						1 - De informatie dekt mijn onderwerp of behoefte nauwelijks en/of
+						is geschreven voor kinderen of voor een super-expert.
+					</option>
+					<option value="2">
+						2 - De inhoud van deze bron dekt mijn onderwerp of behoefte, maar is
+						niet helemaal op het juiste niveau (te makkelijk of te moeilijk te
+						begrijpen).
+					</option>
+					<option value="3">
+						3 - De inhoud van deze bronnen dekt mijn onderwerp/behoefte, is op
+						het juiste moeilijkheidsniveau en is geschikt voor de context van
+						mijn behoefte.
+					</option>
+				</select>
+			</div>
 
-            <div class="mb-3">
-                <label for="authorityScore" class="form-label">Autoriteit:</label>
-                <select class="form-control" id="authorityScore" name="authorityScore">
-                    <option value="0">
-                        0 - Er is geen informatie over de auteur of de sponsor, noch is er
-                        een "over ons" sectie of contactinformatie.
-                    </option>
-                    <option value="1">
-                        1 - Ik kan de auteur en/of sponsor identificeren, maar er is geen
-                        uitleg of de auteur expertise heeft over het onderwerp.
-                    </option>
-                    <option value="2">
-                        2 - Ik kan de auteur en sponsor identificeren, maar merk op dat de
-                        auteur niet veel ervaring of autoriteit heeft over het onderwerp.
-                    </option>
-                    <option value="3">
-                        3 - Ik kan de auteur en sponsor identificeren, en de auteur toont
-                        duidelijk veel ervaring en/of onderzoek over het onderwerp.
-                    </option>
-                </select>
-            </div>
+			<div class="mb-3">
+				<label for="authorityScore" class="form-label ">Autoriteit:</label>
+				<select class="form-control text-wrap" id="authorityScore" name="authorityScore">
+					<option value="0">
+						0 - Er is geen informatie over de auteur of de sponsor, noch is er
+						een "over ons" sectie of contactinformatie.
+					</option>
+					<option value="1">
+						1 - Ik kan de auteur en/of sponsor identificeren, maar er is geen
+						uitleg of de auteur expertise heeft over het onderwerp.
+					</option>
+					<option value="2">
+						2 - Ik kan de auteur en sponsor identificeren, maar vermoed dat de
+						auteur niet veel kennis of ervaring heeft wat betreft het onderwerp.
+					</option>
+					<option value="3">
+						3 - Ik kan de auteur en sponsor identificeren, en de auteur toont
+						duidelijk veel kennis en ervaring te hebben m.b.t. het onderwerp.
+					</option>
+				</select>
+			</div>
 
-            <div class="mb-3">
-                <label for="accuracyScore" class="form-label">Nauwkeurigheid:</label>
-                <select class="form-control" id="accuracyScore" name="accuracyScore">
-                    <option value="0">
-                        0 - Er is geen bewijs, slechts een mening of regelrechte vlammen.
-                    </option>
-                    <option value="1">
-                        1 - Er is enig bewijs, maar het is ofwel niet geciteerd, de auteur
-                        citeert alleen zichzelf of het bewijs is duidelijk desinformatie.
-                    </option>
-                    <option value="2">
-                        2 - De auteur gebruikt bewijs, maar als ik ernaar kijk, kan ik
-                        duidelijk zien dat de auteur het bewijs heeft verkeerd begrepen,
-                        verkeerd gebruikt of cherry-picked.
-                    </option>
-                    <option value="3">
-                        3 - De auteur gebruikt uitgebreid, hoogwaardig bewijs dat volledig
-                        is geciteerd/gelinkt en wanneer ik ernaar kijk, heeft de auteur het
-                        bewijs nauwkeurig weergegeven.
-                    </option>
-                </select>
-            </div>
+			<div class="mb-3">
+				<label for="accuracyScore" class="form-label">Nauwkeurigheid:</label>
+				<select class="form-control text-wrap" id="accuracyScore" name="accuracyScore">
+					<option value="0">
+						0 - Er is geen bewijs, slechts een mening of regelrechte belediging.
+					</option>
+					<option value="1">
+						1 - Er is enig bewijs, maar het is ofwel niet geciteerd, de auteur
+						citeert alleen zichzelf of het bewijs is duidelijk desinformatie.
+					</option>
+					<option value="2">
+						2 - De auteur gebruikt bewijs, maar als ik ernaar kijk, kan ik
+						duidelijk zien dat de auteur het bewijs verkeerd heeft begrepen,
+						verkeerd gebruikt of subjectief uitlegt
+					</option>
+					<option value="3">
+						3 - De auteur gebruikt uitgebreid, hoogwaardig bewijs dat volledig
+						is geciteerd/gelinkt en coor zover ik het kan overzien, heeft de auteur het
+						bewijs nauwkeurig weergegeven.
+					</option>
+				</select>
+			</div>
 
-            <div class="mb-3">
-                <label for="purposeScore" class="form-label">Doel:</label>
-                <select class="form-control" id="purposeScore" name="purposeScore">
-                    <option value="0">
-                        0 - Het doel van de bron is om emoties te ontvlammen of
-                        desinformatie te verspreiden, niet om te helpen bij het oplossen van
-                        een probleem, het nemen van een belangrijke beslissing, het leveren
-                        van bewijs voor nieuw inzicht of het verstrekken van onpartijdige
-                        informatie.
-                    </option>
-                    <option value="1">
-                        1 - Het doel van de bron is om te verkopen, te entertainen of te
-                        overtuigen, niet om te helpen bij het oplossen van een probleem, het
-                        nemen van een belangrijke beslissing, het leveren van bewijs voor
-                        nieuw inzicht of het verstrekken van onpartijdige informatie.
-                    </option>
-                    <option value="2">
-                        2 - Het doel van de bron is om te helpen bij het oplossen van een
-                        probleem, het nemen van een belangrijke beslissing, het leveren van
-                        bewijs voor nieuw inzicht of het verstrekken van onpartijdige
-                        informatie, maar het is duidelijk dat de auteur/sponsor een bepaalde
-                        agenda heeft.
-                    </option>
-                    <option value="3">
-                        3 - Het doel van de bron is om te helpen bij het oplossen van een
-                        probleem, het nemen van een belangrijke beslissing, het leveren van
-                        bewijs voor nieuw inzicht of het verstrekken van onpartijdige
-                        informatie, en het is duidelijk dat de auteur/sponsor geen agenda
-                        heeft.
-                    </option>
-                </select>
-            </div>
+			<div class="mb-5">
+				<label for="purposeScore" class="form-label">Doel:</label>
+				<select class="form-control text-wrap" id="purposeScore" name="purposeScore">
+					<option value="0">
+						0 - Het doel van de bron is om emoties op te wekken of
+						desinformatie te verspreiden, niet om te helpen bij het oplossen van
+						een probleem, het nemen van een belangrijke beslissing, het leveren
+						van bewijs voor nieuw inzicht of het verstrekken van onpartijdige
+						informatie.
+					</option>
+					<option value="1">
+						1 - Het doel van de bron is om te verkopen, te entertainen of te
+						overtuigen, niet om te helpen bij het oplossen van een probleem, het
+						nemen van een belangrijke beslissing, het leveren van bewijs voor
+						nieuw inzicht of het verstrekken van onpartijdige informatie.
+					</option>
+					<option value="2">
+						2 - Het doel van de bron is om te helpen bij het oplossen van een
+						probleem, het nemen van een belangrijke beslissing, het leveren van
+						bewijs voor nieuw inzicht of het verstrekken van onpartijdige
+						informatie, maar het is duidelijk dat de auteur/sponsor een bepaalde
+						agenda heeft.
+					</option>
+					<option value="3">
+						3 - Het doel van de bron is om te helpen bij het oplossen van een
+						probleem, het nemen van een belangrijke beslissing, het leveren van
+						bewijs voor nieuw inzicht of het verstrekken van onpartijdige
+						informatie, en het is duidelijk dat de auteur/sponsor geen agenda
+						heeft.
+					</option>
+				</select>
+			</div>
 
-            <button type="submit" class="btn btn-primary">Indienen</button>
-        </form>
-
-        <h3 class="mt-5">Totaal: <span id="totalScore"></span></h3>
+			<button type="submit" class="btn btn-primary btn-lg">Opslaan</button>
+		</form>
+		<h3 class="mb-3">Totaal: <span id="totalScore"></span></h3>
+		<div class="my-3">
+			<button class="btn btn-warning btn-lg" id="reset">Reset</button>
+		</div>
+		<div class="my-3">
+			<button class="btn btn-info btn-lg" id="download">Download CSV</button>
+		</div>
 ```
+
+:::
+:::
+
+
+
+

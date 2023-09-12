@@ -1,0 +1,32 @@
+<script>
+			document
+				.getElementById("craapForm")
+				.addEventListener("submit", function (event) {
+					event.preventDefault();
+
+					const currencyScore = parseInt(
+						document.getElementById("currencyScore").value
+					);
+					const relevanceScore = parseInt(
+						document.getElementById("relevanceScore").value
+					);
+					const authorityScore = parseInt(
+						document.getElementById("authorityScore").value
+					);
+					const accuracyScore = parseInt(
+						document.getElementById("accuracyScore").value
+					);
+					const purposeScore = parseInt(
+						document.getElementById("purposeScore").value
+					);
+
+					const total =
+						currencyScore +
+						relevanceScore +
+						authorityScore +
+						accuracyScore +
+						purposeScore;
+
+					document.getElementById("totalScore").textContent = total;
+				});
+		</script>

@@ -203,8 +203,6 @@ Uiteindelijk bleek dus dat Sales druk bezig was extern omzet te zoeken, terwijl 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_vS_b7cJn2A?si=yfFk3o-_J15x1C1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-
-
 ### Discovery: Beoordeling kwaliteit informatiebronnen
 
 Het is belangrijk om informatie te beoordelen, omdat je wilt dat je de juiste informatie gebruikt om beslissingen te nemen. In de bedrijfswereld is dit van groot belang, omdat je op de hoogte moet zijn van de laatste ontwikkelingen om te kunnen concurreren met andere bedrijven.
@@ -237,24 +235,45 @@ Elk framework werkt door elke bron te beoordelen aan de hand van een aantal vrag
 
 -   **Coverage**: Is alle relevante informatie aanwezig? Is er sprake van onvolledige informatie?
 
-Een voorbeeld van hoe AAOCC of CRAAP kan worden toegepast, is het beoordelen van een artikel over de nieuwste ontwikkelingen in de technologiesector. Om te bepalen of het artikel betrouwbaar is, kun je de volgende vragen beantwoorden:
-
-**AAOCC**
-
--   **Authority**: Is het artikel geschreven door een journalist of expert op het gebied van technologie?
-
--   **Accuracy**: Is de informatie over de nieuwste ontwikkelingen feitelijk juist? Is er bewijs om de informatie te ondersteunen, zoals links naar andere bronnen of citaten van experts?
-
--   **Objectivity**: Is het artikel onpartijdig? Is er sprake van vooringenomenheid, bijvoorbeeld in de vorm van positieve of negatieve recensies?
-
--   **Currency**: Is het artikel recent gepubliceerd? Is het artikel binnen de afgelopen paar jaar gepubliceerd?
-
--   **Coverage**: Worden alle belangrijke ontwikkelingen in de technologiesector genoemd?
+Een voorbeeld van hoe AAOCC kan worden toegepast, is het beoordelen van een artikel over [social media marketing](https://www.sciencedirect.com/science/article/pii/S0019850117301116){target="_blank"}. Stel je loopt stage bij een accountancy-bureau en doet onderzoek naar social media marketing. Om te bepalen in welke mate het artikel geschikt is voor jouw onderzoek, kun je per criterium een score bepalen:
 
 ```{=html}
-<div class="ratio ratio-16x9 my-5">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/vTpmT9f5Re0?si=PzFy12PfaNsb4zXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Criterium</th>
+            <th>Score</th>
+            <th>Toelichting</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Authority</td>
+            <td>Hoog</td>
+            <td>Het artikel is gepubliceerd in "Industrial Marketing Management", een gerenommeerd tijdschrift. Bovendien zijn de auteurs afkomstig van bekende universiteiten zoals Coventry University, University of Bath, Falmouth University, University of Edinburgh en Cardiff Business School.</td>
+        </tr>
+        <tr>
+            <td>Accuracy</td>
+            <td>Hoog</td>
+            <td>Het artikel maakt gebruik van bestaande literatuur en verwijst naar eerdere studies om hun argumenten te onderbouwen. Er wordt ook een methodologie beschreven voor hun onderzoek.</td>
+        </tr>
+        <tr>
+            <td>Objectivity</td>
+            <td>Hoog</td>
+            <td>Het artikel lijkt een evenwichtige benadering te hanteren bij het bespreken van social media marketing in verschillende bedrijfsmodellen. Er wordt geen duidelijke vooringenomenheid waargenomen in de presentatie van de informatie.</td>
+        </tr>
+        <tr>
+            <td>Currency</td>
+            <td>Hoog</td>
+            <td>Het artikel is gepubliceerd in 2019, wat betekent dat het relatief recent is en de informatie actueel is in de context van social media marketing.</td>
+        </tr>
+        <tr>
+            <td>Coverage</td>
+            <td>Gemiddeld tot Hoog</td>
+            <td>Het artikel behandelt een specifiek onderwerp - de vergelijking van social media marketing tussen verschillende bedrijfsmodellen. Het biedt een diepgaande analyse van het onderwerp, maar de volledige diepte van de dekking kan pas worden beoordeeld na het lezen van het volledige artikel.</td>
+        </tr>
+    </tbody>
+</table>
 ```
 
 CRAAP kun je op dezelfde wijze toepassen. Hieronder vind je een hulpmiddel.
@@ -265,239 +284,242 @@ CRAAP kun je op dezelfde wijze toepassen. Hieronder vind je een hulpmiddel.
 ::: panel-tabset
 ##### Uitleg
 
-1. **Open het Formulier (volgende tabblad)**  
+1.  **Open het Formulier (volgende tabblad)**
 
-2. **Vul je gegevens in:**  
-   - **Voornaam:** Alhoewel er in dit geval geen gegevens worden bewaard, is het algemeen wijzer zo weinig mogelijk persoonsgegevens te delen. Gebruik daarom hier alleen je voornaam.
-   - **Titel van de informatiebron:** Noteer de titel van het artikel of de bron die je evalueert.
-   - **Auteur(s):** Vermeld de naam of namen van de auteurs van de bron.
-   - **Type bron:** Specificeer wat voor soort bron het is (bijv. boek, artikel, website).
-   - **Datum van de Bron:** Geef de publicatiedatum van de bron aan.
-   - **Locatie van de bron:** Beschrijf waar je de bron hebt gevonden (bijv. URL voor websites).
+2.  **Vul je gegevens in:**
 
-3. **Evalueer de bron:**  
-   Voor elk van de criteria, selecteer een score uit de dropdown menu's op basis van hoe goed je denkt dat de bron voldoet aan het betreffende criterium.
+    -   **Voornaam:** Alhoewel er in dit geval geen gegevens worden bewaard, is het algemeen wijzer zo weinig mogelijk persoonsgegevens te delen. Gebruik daarom hier alleen je voornaam.
+    -   **Titel van de informatiebron:** Noteer de titel van het artikel of de bron die je evalueert.
+    -   **Auteur(s):** Vermeld de naam of namen van de auteurs van de bron.
+    -   **Type bron:** Specificeer wat voor soort bron het is (bijv. boek, artikel, website).
+    -   **Datum van de Bron:** Geef de publicatiedatum van de bron aan.
+    -   **Locatie van de bron:** Beschrijf waar je de bron hebt gevonden (bijv. URL voor websites).
 
-4. **Sla de beoordeling op:**  
-   Klik op de "Opslaan" knop. Je beoordeling wordt opgeslagen en de som van alles scores wordt berekend.
+3.  **Evalueer de bron:**\
+    Voor elk van de criteria, selecteer een score uit de dropdown menu's op basis van hoe goed je denkt dat de bron voldoet aan het betreffende criterium.
 
-5. **Voeg een nieuwe beoordeling toe:**  
-   Als je nog een bron wilt beoordelen, klik dan op "Reset" en vul alle velden opnieuw in.
+4.  **Sla de beoordeling op:**\
+    Klik op de "Opslaan" knop. Je beoordeling wordt opgeslagen en de som van alles scores wordt berekend.
 
-5. **Download je beoordelingen:**  
-   Zodra je klaar bent met het beoordelen van alle bronnen, klik je op de "Download CSV" knop. Een CSV-bestand met al je beoordelingen wordt gedownload naar je computer. Je kunt dit bestand openen met programma's zoals Microsoft Excel of Google Sheets om je beoordelingen te bekijken.
+5.  **Voeg een nieuwe beoordeling toe:**\
+    Als je nog een bron wilt beoordelen, klik dan op "Reset" en vul alle velden opnieuw in.
 
----
+6.  **Download je beoordelingen:**\
+    Zodra je klaar bent met het beoordelen van alle bronnen, klik je op de "Download CSV" knop. Een CSV-bestand met al je beoordelingen wordt gedownload naar je computer. Je kunt dit bestand openen met programma's zoals Microsoft Excel of Google Sheets om je beoordelingen te bekijken.
+
+------------------------------------------------------------------------
 
 **Tips:**
 
-- Neem de tijd om elke bron zorgvuldig te beoordelen. De CRAAP-test is een waardevol instrument om de kwaliteit en betrouwbaarheid van een bron te bepalen.
-- Als je twijfelt over een bepaald criterium, bespreek dit dan met je medestudenten of vraag je docent om advies.
+-   Neem de tijd om elke bron zorgvuldig te beoordelen. De CRAAP-test is een waardevol instrument om de kwaliteit en betrouwbaarheid van een bron te bepalen.
+-   Als je twijfelt over een bepaald criterium, bespreek dit dan met je medestudenten of vraag je docent om advies.
 
----
+------------------------------------------------------------------------
 
 **Veel succes met je beoordelingen!**
 
 ##### Formulier
+
 ```{=html}
 <h2>CRAAP Test Rubric voor het evalueren van informatiebronnen</h2>
 <div class="my-3">Het onderstaande formulier is gebaseerd op deze <a href="https://udc.libguides.com/ld.php?content_id=49188566" target="_blank">template</a> van de <a href="https://udc.libguides.com/evaluating_sources" target="_blank">UDC Library</a>
 </div>
 
-		<form class="mb-3" id="craapForm">
-			<div class="mb-3">
-				<label for="studentName" class="form-label">Voornaam student:</label>
-				<input
-					type="text"
-					class="form-control"
-					id="studentName"
-					name="studentName"
-				/>
-			</div>
+        <form class="mb-3" id="craapForm">
+            <div class="mb-3">
+                <label for="studentName" class="form-label">Voornaam student:</label>
+                <input
+                    type="text"
+                    class="form-control"
+                    id="studentName"
+                    name="studentName"
+                />
+            </div>
 
-			<div class="mb-3">
-				<label for="sourceTitle" class="form-label"
-					>Titel van de informatiebron:</label
-				>
-				<input
-					type="text"
-					class="form-control"
-					id="sourceTitle"
-					name="sourceTitle"
-				/>
-			</div>
+            <div class="mb-3">
+                <label for="sourceTitle" class="form-label"
+                    >Titel van de informatiebron:</label
+                >
+                <input
+                    type="text"
+                    class="form-control"
+                    id="sourceTitle"
+                    name="sourceTitle"
+                />
+            </div>
 
-			<div class="mb-3">
-				<label for="authors" class="form-label">Auteur(s):</label>
-				<input type="text" class="form-control" id="authors" name="authors" />
-			</div>
+            <div class="mb-3">
+                <label for="authors" class="form-label">Auteur(s):</label>
+                <input type="text" class="form-control" id="authors" name="authors" />
+            </div>
 
-			<div class="mb-3">
-				<label for="resourceType" class="form-label">Type bron:</label>
-				<input
-					type="text"
-					class="form-control"
-					id="resourceType"
-					name="resourceType"
-				/>
-			</div>
+            <div class="mb-3">
+                <label for="resourceType" class="form-label">Type bron:</label>
+                <input
+                    type="text"
+                    class="form-control"
+                    id="resourceType"
+                    name="resourceType"
+                />
+            </div>
 
-			<div class="mb-3">
-				<label for="resourceDate" class="form-label">Datum van de bron:</label>
-				<input
-					type="date"
-					class="form-control"
-					id="resourceDate"
-					name="resourceDate"
-				/>
-			</div>
+            <div class="mb-3">
+                <label for="resourceDate" class="form-label">Datum van de bron:</label>
+                <input
+                    type="date"
+                    class="form-control"
+                    id="resourceDate"
+                    name="resourceDate"
+                />
+            </div>
 
-			<div class="mb-3">
-				<label for="resourceLocation" class="form-label"
-					>Locatie van de bron:</label
-				>
-				<textarea
-					class="form-control"
-					id="resourceLocation"
-					name="resourceLocation"
-				></textarea>
-			</div>
+            <div class="mb-3">
+                <label for="resourceLocation" class="form-label"
+                    >Locatie van de bron:</label
+                >
+                <textarea
+                    class="form-control"
+                    id="resourceLocation"
+                    name="resourceLocation"
+                ></textarea>
+            </div>
 
-			<h3>Subscores voor elk element</h3>
+            <h3>Subscores voor elk element</h3>
 
-			<div class="mb-3">
-				<label for="currencyScore" class="form-label">Actualiteit:</label>
-				<select class="form-control text-wrap" id="currencyScore" name="currencyScore">
-					<option value="0">
-						0 - Mijn onderwerp is tijdloos, dus actualiteit maakt niet uit
-					</option>
-					<option value="1">
-						1 - Actualiteit doet ertoe en de bron is ouder dan 15 jaar
-					</option>
-					<option value="2">
-						2 - Actualiteit doet ertoe en de bron is 5-10 jaar oud
-					</option>
-					<option value="3">
-						3 - Actualiteit doet ertoe en de bron is minder dan 5 jaar oud
-					</option>
-				</select>
-			</div>
+            <div class="mb-3">
+                <label for="currencyScore" class="form-label">Actualiteit:</label>
+                <select class="form-control text-wrap" id="currencyScore" name="currencyScore">
+                    <option value="0">
+                        0 - Mijn onderwerp is tijdloos, dus actualiteit maakt niet uit
+                    </option>
+                    <option value="1">
+                        1 - Actualiteit doet ertoe en de bron is ouder dan 15 jaar
+                    </option>
+                    <option value="2">
+                        2 - Actualiteit doet ertoe en de bron is 5-10 jaar oud
+                    </option>
+                    <option value="3">
+                        3 - Actualiteit doet ertoe en de bron is minder dan 5 jaar oud
+                    </option>
+                </select>
+            </div>
 
-			<div class="mb-3">
-				<label for="relevanceScore" class="form-label">Relevantie:</label>
-				<select class="form-control text-wrap" id="relevanceScore" name="relevanceScore">
-					<option value="0">
-						0 - Als dit nul of NVT krijgt, zoek dan een andere bron!
-					</option>
-					<option value="1">
-						1 - De informatie dekt mijn onderwerp of behoefte nauwelijks en/of
-						is geschreven voor kinderen of voor een super-expert.
-					</option>
-					<option value="2">
-						2 - De inhoud van deze bron dekt mijn onderwerp of behoefte, maar is
-						niet helemaal op het juiste niveau (te makkelijk of te moeilijk te
-						begrijpen).
-					</option>
-					<option value="3">
-						3 - De inhoud van deze bronnen dekt mijn onderwerp/behoefte, is op
-						het juiste moeilijkheidsniveau en is geschikt voor de context van
-						mijn behoefte.
-					</option>
-				</select>
-			</div>
+            <div class="mb-3">
+                <label for="relevanceScore" class="form-label">Relevantie:</label>
+                <select class="form-control text-wrap" id="relevanceScore" name="relevanceScore">
+                    <option value="0">
+                        0 - Als dit nul of NVT krijgt, zoek dan een andere bron!
+                    </option>
+                    <option value="1">
+                        1 - De informatie dekt mijn onderwerp of behoefte nauwelijks en/of
+                        is geschreven voor kinderen of voor een super-expert.
+                    </option>
+                    <option value="2">
+                        2 - De inhoud van deze bron dekt mijn onderwerp of behoefte, maar is
+                        niet helemaal op het juiste niveau (te makkelijk of te moeilijk te
+                        begrijpen).
+                    </option>
+                    <option value="3">
+                        3 - De inhoud van deze bronnen dekt mijn onderwerp/behoefte, is op
+                        het juiste moeilijkheidsniveau en is geschikt voor de context van
+                        mijn behoefte.
+                    </option>
+                </select>
+            </div>
 
-			<div class="mb-3">
-				<label for="authorityScore" class="form-label ">Autoriteit:</label>
-				<select class="form-control text-wrap" id="authorityScore" name="authorityScore">
-					<option value="0">
-						0 - Er is geen informatie over de auteur of de sponsor, noch is er
-						een "over ons" sectie of contactinformatie.
-					</option>
-					<option value="1">
-						1 - Ik kan de auteur en/of sponsor identificeren, maar er is geen
-						uitleg of de auteur expertise heeft over het onderwerp.
-					</option>
-					<option value="2">
-						2 - Ik kan de auteur en sponsor identificeren, maar vermoed dat de
-						auteur niet veel kennis of ervaring heeft wat betreft het onderwerp.
-					</option>
-					<option value="3">
-						3 - Ik kan de auteur en sponsor identificeren, en de auteur toont
-						duidelijk veel kennis en ervaring te hebben m.b.t. het onderwerp.
-					</option>
-				</select>
-			</div>
+            <div class="mb-3">
+                <label for="authorityScore" class="form-label ">Autoriteit:</label>
+                <select class="form-control text-wrap" id="authorityScore" name="authorityScore">
+                    <option value="0">
+                        0 - Er is geen informatie over de auteur of de sponsor, noch is er
+                        een "over ons" sectie of contactinformatie.
+                    </option>
+                    <option value="1">
+                        1 - Ik kan de auteur en/of sponsor identificeren, maar er is geen
+                        uitleg of de auteur expertise heeft over het onderwerp.
+                    </option>
+                    <option value="2">
+                        2 - Ik kan de auteur en sponsor identificeren, maar vermoed dat de
+                        auteur niet veel kennis of ervaring heeft wat betreft het onderwerp.
+                    </option>
+                    <option value="3">
+                        3 - Ik kan de auteur en sponsor identificeren, en de auteur toont
+                        duidelijk veel kennis en ervaring te hebben m.b.t. het onderwerp.
+                    </option>
+                </select>
+            </div>
 
-			<div class="mb-3">
-				<label for="accuracyScore" class="form-label">Nauwkeurigheid:</label>
-				<select class="form-control text-wrap" id="accuracyScore" name="accuracyScore">
-					<option value="0">
-						0 - Er is geen bewijs, slechts een mening of stemmingmakerij.
-					</option>
-					<option value="1">
-						1 - Er is enig bewijs, maar het is ofwel niet geciteerd, de auteur
-						citeert alleen zichzelf of het bewijs is duidelijk desinformatie.
-					</option>
-					<option value="2">
-						2 - De auteur gebruikt bewijs, maar als ik ernaar kijk, kan ik
-						duidelijk zien dat de auteur het bewijs verkeerd heeft begrepen,
-						verkeerd gebruikt of subjectief uitlegt
-					</option>
-					<option value="3">
-						3 - De auteur gebruikt uitgebreid, hoogwaardig bewijs dat volledig
-						is geciteerd/gelinkt en coor zover ik het kan overzien, heeft de auteur het
-						bewijs nauwkeurig weergegeven.
-					</option>
-				</select>
-			</div>
+            <div class="mb-3">
+                <label for="accuracyScore" class="form-label">Nauwkeurigheid:</label>
+                <select class="form-control text-wrap" id="accuracyScore" name="accuracyScore">
+                    <option value="0">
+                        0 - Er is geen bewijs, slechts een mening of stemmingmakerij.
+                    </option>
+                    <option value="1">
+                        1 - Er is enig bewijs, maar het is ofwel niet geciteerd, de auteur
+                        citeert alleen zichzelf of het bewijs is duidelijk desinformatie.
+                    </option>
+                    <option value="2">
+                        2 - De auteur gebruikt bewijs, maar als ik ernaar kijk, kan ik
+                        duidelijk zien dat de auteur het bewijs verkeerd heeft begrepen,
+                        verkeerd gebruikt of subjectief uitlegt
+                    </option>
+                    <option value="3">
+                        3 - De auteur gebruikt uitgebreid, hoogwaardig bewijs dat volledig
+                        is geciteerd/gelinkt en coor zover ik het kan overzien, heeft de auteur het
+                        bewijs nauwkeurig weergegeven.
+                    </option>
+                </select>
+            </div>
 
-			<div class="mb-5">
-				<label for="purposeScore" class="form-label">Doel:</label>
-				<select class="form-control text-wrap" id="purposeScore" name="purposeScore">
-					<option value="0">
-						0 - Het doel van de bron is om emoties op te wekken of
-						desinformatie te verspreiden, niet om te helpen bij het oplossen van
-						een probleem, het nemen van een belangrijke beslissing, het leveren
-						van bewijs voor nieuw inzicht of het verstrekken van onpartijdige
-						informatie.
-					</option>
-					<option value="1">
-						1 - Het doel van de bron is om te verkopen, te entertainen of te
-						overtuigen, niet om te helpen bij het oplossen van een probleem, het
-						nemen van een belangrijke beslissing, het leveren van bewijs voor
-						nieuw inzicht of het verstrekken van onpartijdige informatie.
-					</option>
-					<option value="2">
-						2 - Het doel van de bron is om te helpen bij het oplossen van een
-						probleem, het nemen van een belangrijke beslissing, het leveren van
-						bewijs voor nieuw inzicht of het verstrekken van onpartijdige
-						informatie, maar het is duidelijk dat de auteur/sponsor een bepaalde
-						agenda heeft.
-					</option>
-					<option value="3">
-						3 - Het doel van de bron is om te helpen bij het oplossen van een
-						probleem, het nemen van een belangrijke beslissing, het leveren van
-						bewijs voor nieuw inzicht of het verstrekken van onpartijdige
-						informatie, en het is duidelijk dat de auteur/sponsor geen agenda
-						heeft.
-					</option>
-				</select>
-			</div>
+            <div class="mb-5">
+                <label for="purposeScore" class="form-label">Doel:</label>
+                <select class="form-control text-wrap" id="purposeScore" name="purposeScore">
+                    <option value="0">
+                        0 - Het doel van de bron is om emoties op te wekken of
+                        desinformatie te verspreiden, niet om te helpen bij het oplossen van
+                        een probleem, het nemen van een belangrijke beslissing, het leveren
+                        van bewijs voor nieuw inzicht of het verstrekken van onpartijdige
+                        informatie.
+                    </option>
+                    <option value="1">
+                        1 - Het doel van de bron is om te verkopen, te entertainen of te
+                        overtuigen, niet om te helpen bij het oplossen van een probleem, het
+                        nemen van een belangrijke beslissing, het leveren van bewijs voor
+                        nieuw inzicht of het verstrekken van onpartijdige informatie.
+                    </option>
+                    <option value="2">
+                        2 - Het doel van de bron is om te helpen bij het oplossen van een
+                        probleem, het nemen van een belangrijke beslissing, het leveren van
+                        bewijs voor nieuw inzicht of het verstrekken van onpartijdige
+                        informatie, maar het is duidelijk dat de auteur/sponsor een bepaalde
+                        agenda heeft.
+                    </option>
+                    <option value="3">
+                        3 - Het doel van de bron is om te helpen bij het oplossen van een
+                        probleem, het nemen van een belangrijke beslissing, het leveren van
+                        bewijs voor nieuw inzicht of het verstrekken van onpartijdige
+                        informatie, en het is duidelijk dat de auteur/sponsor geen agenda
+                        heeft.
+                    </option>
+                </select>
+            </div>
 
-			<button type="submit" class="btn btn-primary btn-lg">Opslaan</button>
-		</form>
-		<h3 class="mb-3">Totaal: <span id="totalScore"></span></h3>
-		<div class="my-3">
-			<button class="btn btn-warning btn-lg" id="reset">Reset</button>
-		</div>
-		<div class="my-3">
-			<button class="btn btn-info btn-lg" id="download">Download CSV</button>
-		</div>
+            <button type="submit" class="btn btn-primary btn-lg">Opslaan</button>
+        </form>
+        <h3 class="mb-3">Totaal: <span id="totalScore"></span></h3>
+        <div class="my-3">
+            <button class="btn btn-warning btn-lg" id="reset">Reset</button>
+        </div>
+        <div class="my-3">
+            <button class="btn btn-info btn-lg" id="download">Download CSV</button>
+        </div>
 ```
-
 :::
 :::
 
-
-
-
+```{=html}
+<div class="ratio ratio-16x9 my-5">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vTpmT9f5Re0?si=PzFy12PfaNsb4zXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```

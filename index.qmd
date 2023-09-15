@@ -235,7 +235,7 @@ Elk framework werkt door elke bron te beoordelen aan de hand van een aantal vrag
 
 -   **Coverage**: Is alle relevante informatie aanwezig? Is er sprake van onvolledige informatie?
 
-Een voorbeeld van hoe AAOCC kan worden toegepast, is het beoordelen van een artikel over [social media marketing](https://www.sciencedirect.com/science/article/pii/S0019850117301116){target="_blank"}. Stel je loopt stage bij een accountancy-bureau en doet onderzoek naar social media marketing. Om te bepalen in welke mate het artikel geschikt is voor jouw onderzoek, kun je per criterium een score bepalen:
+Een voorbeeld van hoe AAOCC kan worden toegepast, is het beoordelen van een artikel over [social media marketing](https://www.sciencedirect.com/science/article/pii/S0019850117301116){target="_blank"}. Stel je loopt stage bij een accountancy-bureau en doet onderzoek naar dit onderwerp. Om te bepalen in welke mate het artikel geschikt is voor jouw onderzoek, kun je per criterium een score bepalen:
 
 ```{=html}
 <table border="1">
@@ -466,7 +466,7 @@ CRAAP kun je op dezelfde wijze toepassen. Hieronder vind je een hulpmiddel.
                     </option>
                     <option value="3">
                         3 - De auteur gebruikt uitgebreid, hoogwaardig bewijs dat volledig
-                        is geciteerd/gelinkt en coor zover ik het kan overzien, heeft de auteur het
+                        is geciteerd/gelinkt en voor zover ik het kan overzien, heeft de auteur het
                         bewijs nauwkeurig weergegeven.
                     </option>
                 </select>

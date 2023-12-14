@@ -14,7 +14,7 @@ editor: visual
 
 ## Voorwoord
 
-Dit werkboek biedt ondersteuning bij bedrijfskundig onderzoek. Op deze pagina lichten we toe waarom onderzoek essentieel is voor de jou als bedrijfskundige professional, onze onderzoeksaanpak bij HAN BK, en wat we in het A-cluster gaan ondernemen.
+Dit werkboek biedt ondersteuning bij bedrijfskundig onderzoek. Op deze pagina lichten we toe waarom onderzoek essentieel is voor de jou als bedrijfskundige professional en onze onderzoeksaanpak bij HAN BK.
 
 Op de volgende pagina introduceren we diverse bedrijfskundige modellen waarmee een casusorganisatie geanalyseerd kan worden. We willen jou laten zien dat er voor elk onderwerp en vraagstuk relevante modellen beschikbaar zijn.
 
@@ -22,6 +22,109 @@ Bij de samenstelling van dit werkboek hebben we diverse media en activiteiten ge
 
 \-- Witek ten Hove / [witektenhove\@gmail.com](mailto:email@ewitektenhove@gmail.com){target="_blank"}
 
+## Eindniveaus HAN BK
+
+Als student Bedrijfskunde krijg je te maken met een breed scala aan onderwerpen. Je leert over de nieuwste trends en praktijken in bedrijfsmanagement, marketing, financiën, human resources en meer. We richten ons niet alleen op theoretische kennis, maar ook op het ontwikkelen van praktische vaardigheden die essentieel zijn in de hedendaagse zakenwereld.
+
+Ons programma is opgebouwd rond een reeks kerncompetenties die aansluiten bij de eisen van de moderne bedrijfswereld. Deze competenties omvatten:
+
+1.  **Probleemanalyse en Diagnostiek:** Je leert problemen te identificeren en analyseren in verschillende zakelijke contexten.
+
+2.  **Ontwerpvaardigheden:** We moedigen je aan om creatieve en innovatieve oplossingen te ontwerpen.
+
+3.  **Veranderingsmanagement:** Je ontwikkelt vaardigheden om veranderingen effectief te beheren en te leiden.
+
+4.  **Evaluatievermogen:** Je leert processen en resultaten kritisch te evalueren.
+
+5.  **Onderzoeksvaardigheden:** Onderzoek speelt een cruciale rol in het maken van onderbouwde zakelijke beslissingen.
+
+6.  **Sociaal-communicatieve Vaardigheden:** Deze zijn essentieel voor succesvol teamwork en netwerken.
+
+7.  **Samenwerking en Netwerkvorming:** Je leert de kunst van samenwerken en het opbouwen van professionele relaties.
+
+8.  **Professionalisering:** Wij stimuleren je om een levenslange leerhouding te ontwikkelen.
+
+9.  **Waardengedreven Handelen:** Ethiek en integriteit staan centraal in onze aanpak.
+
+De opleiding is opgedeeld in drie niveaus van toenemende complexiteit en verantwoordelijkheid. Je start met het leggen van een solide basis (niveau 1), bouwt voort op gevorderde vaardigheden (niveau 2) en streeft uiteindelijk naar expertise (niveau 3). Elk niveau brengt je dichter bij het worden van een volwaardige bedrijfskundige professional.
+
+Uiteindelijk leer je bedrijfskundig redeneren en handelen. Dit beschouwen we als een overkoepelende competentie waar meerdere onderliggende competentie samenkomen.
+
+```{=html}
+<div class="container mt-5">
+    <h2>Overkoepelende competentie Bedrijfskunde HAN</h2>
+    <div class="table-responsive">
+        <table class="table table-bordered">
+    <thead>
+<tr>
+    <th colspan="3" class="table-active">Bedrijfskundig redeneren</th>
+</tr>
+    </thead>
+    <tbody>
+<tr>
+    <td colspan="3">De startende professional is in staat tot onderbouwde argumenten te komen voor een integraal advies op basis van data, theorie, de bedrijfskundige professionele vakmanschap en persoonlijke inbreng, zodat besluitvorming hierop plaats kan vinden. De student heeft zicht op de bedrijfskundige aspecten in relatie tot elkaar conform het bedrijfskundig model (niveaus/breedte: disciplines).</td>
+</tr>
+<tr>
+    <th class="col-4">Niveau 1</th>
+    <th class="col-4">Niveau 2</th>
+    <th class="col-4">Niveau 3</th>
+</tr>
+<tr>
+    <td class="col-4">De student herkent de relevante aspecten van een bedrijfskundig vraagstuk en kan op basis van betrouwbare argumenten een eenvoudig bedrijfskundig advies uitbrengen.</td>
+    <td class="col-4">De student onderbouwt een bedrijfskundig advies door bedrijfskundige kennis en vaardigheid toe te passen in het continu proces van gegevensverzameling en analyse, gericht op de vragen en problemen van een organisatie en diens stakeholders.</td>
+    <td class="col-4">De student kijkt meervoudig naar de problemen en oplossingen rondom een bedrijfskundig vraagstuk en ontwerpt een integrale oplossing die aantoonbaar leidt tot de realisatie van de bedrijfskundige doelstellingen.</td>
+</tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<div class="container">
+    <br>
+    <div class="row">
+
+        <!-- Niveau 1 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/emma.png" alt="Afbeelding van Emma">
+                <div class="card-body">
+                    <h5 class="card-title">Emma Jansen - Niveau 1</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Startende Bedrijfskundige</h6>
+                    <p class="card-text">Project: Efficiëntieanalyse bij Klein Kledingbedrijf.</p>
+                    <p class="font-italic">"Dit project hielp me inzien hoe cruciaal het is om elk aspect van een bedrijf te begrijpen, hoe klein ook!"</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 2 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/lucas.png" alt="Afbeelding van Lucas">
+                <div class="card-body">
+                    <h5 class="card-title">Lucas de Vries - Niveau 2</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Gevorderde Bedrijfskundige</h6>
+                    <p class="card-text">Project: Marktanalyse voor Tech Startup.</p>
+                    <p class="font-italic">"De uitdaging om nieuwe markten te identificeren was zowel boeiend als leerzaam, en toonde het belang van data-analyse aan."</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 3 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/sophia.png" alt="Afbeelding van Sofia">
+                <div class="card-body">
+                    <h5 class="card-title">Sophia Rodriguez - Niveau 3</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Expert Bedrijfskundige</h6>
+                    <p class="card-text">Project: Strategisch Plan voor Duurzame Energie.</p>
+                    <p class="font-italic">"Werken aan dit project heeft me niet alleen bedrijfskundige vaardigheden bijgebracht, maar ook hoe je een echte impact kunt maken op de wereld."</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <br>
+</div>
+```
 ## Waarom is onderzoek belangrijk voor BK?
 
 Onderzoeksvaardigheden zijn cruciaal voor studenten Bedrijfskunde, omdat deze vaardigheden hen in staat stellen om gefundeerde beslissingen te nemen in complexe zakelijke omgevingen. Daniel Kahneman, Nobelprijswinnaar in de economie, introduceerde het concept van System 1 en System 2 Thinking. System 1 verwijst naar onze intuïtieve, snelle denkwijze die vaak gebaseerd is op aannames en vooroordelen. System 2 daarentegen is langzamer, beredeneerd en analytisch.

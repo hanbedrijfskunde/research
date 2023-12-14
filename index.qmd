@@ -128,7 +128,7 @@ Uiteindelijk leer je bedrijfskundig redeneren en handelen. Dit beschouwen we als
             <div class="card h-100">
                 <img class="card-img-top" src="images/bas.png" alt="Afbeelding van Bas">
                 <div class="card-body">
-                    <h5 class="card-title">Bas van Dijk - Niveau 1</h5>
+                    <h5 class="card-title">Bastiaan van Dijk - Niveau 1</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Startende Studentondernemer</h6>
                     <p class="card-text">Project: Opzetten van een community app.</p>
                     <p class="font-italic">"Dit project leerde me de basis van het runnen van een bedrijf en het belang van klanttevredenheid."</p>

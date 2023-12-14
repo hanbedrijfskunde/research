@@ -52,7 +52,7 @@ Uiteindelijk leer je bedrijfskundig redeneren en handelen. Dit beschouwen we als
 
 ```{=html}
 <div class="container mt-5">
-    <h2>Overkoepelende competentie Bedrijfskunde HAN</h2>
+    <h4>Overkoepelende competentie Bedrijfskunde HAN</h4>
     <div class="table-responsive">
         <table class="table table-bordered">
     <thead>

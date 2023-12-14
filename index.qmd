@@ -48,7 +48,7 @@ Ons programma is opgebouwd rond een reeks kerncompetenties die aansluiten bij de
 
 De opleiding is opgedeeld in drie niveaus van toenemende complexiteit en verantwoordelijkheid. Je start met het leggen van een solide basis (niveau 1), bouwt voort op gevorderde vaardigheden (niveau 2) en streeft uiteindelijk naar expertise (niveau 3). Elk niveau brengt je dichter bij het worden van een volwaardige bedrijfskundige professional.
 
-Uiteindelijk leer je bedrijfskundig redeneren en handelen. Dit beschouwen we als een overkoepelende competentie waar meerdere onderliggende competentie samenkomen.
+Uiteindelijk leer je bedrijfskundig redeneren en handelen. Dit beschouwen we als een overkoepelende competentie waar meerdere onderliggende competenties samenkomen.
 
 ```{=html}
 <div class="container mt-5">
